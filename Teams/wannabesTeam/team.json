@@ -1,0 +1,36 @@
+{
+  "teamName": "wannabesTeam",
+  "members": [
+    {
+      "name": "Lea Gagulic",
+      "twitter": "??",
+      "koding": "??",
+      "location": "Zagreb, HR"
+    },
+    {
+      "name": "Dusko Vorkapic",
+      "twitter": "Duskox",
+      "koding": "dusko",
+      "location": "Zagreb, HR",
+      "lead": true
+    },
+    {
+      "name": "Zdenko Gradecak",
+      "twitter": "disablable",
+      "koding": "disablable",
+      "location": "Split, HR"
+    },
+    {
+      "name": "Hrvoje Manz",
+      "twitter": "??",
+      "koding": "??",
+      "location": "Zagreb, HR"
+    },
+    {
+      "name": "Davor Perhaj",
+      "twitter": "??",
+      "koding": "??",
+      "location": "Zagreb, HR"
+    }
+  ]
+}
