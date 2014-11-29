@@ -1,0 +1,36 @@
+{
+    "teamName": "The Undecided",
+    "members": [
+        {
+            "name": "Benjamin Cheng"
+            "twitter": "lolzballs"
+            "koding": "lolzballs"
+            "location": "Richmond Hill, CA"
+        },
+        {
+            "name": "Olawale Onabola"
+            "twitter": "ToBeAdded"
+            "koding": "walexi4great"
+            "location": "ToBeAdded, WORLD"
+        },
+        {
+            "name": "Alessandro Madruga"
+            "twitter": "ToBeAdded"
+            "koding": "amcorreia"
+            "location": "Somewhere, WORLD"
+        },
+        {
+            "name": "Makanju Perfect"
+            "twitter": "ToBeAdded"
+            "koding": "perfectmak"
+            "location": "Somewhere, UNIVERSE"
+        },
+        {
+            "name": "Sao Payne"
+            "twitter": "ToBeAdded"
+            "koding": "saopayne"
+            "location": "Ife, NG"
+        }
+
+    ]
+}
