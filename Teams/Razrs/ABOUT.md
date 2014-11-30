@@ -1,19 +1,19 @@
-The Undecided
+#Razrs
 ================
 
-A team that doesn't really have a plan right now. Meetings have been scheduled.
+We are #razrs. We shall put more here later.
 
 
 About your team
 ===========================
 
-| amcorreia | perfectmak | walexi4great | saopayne | lolzballs
+| amcorreia | perfectmak | walexi4great | saopayne | lolzballs | 
 
-We are the undecided. A large part of our mystery is our team members coming from different parts of the world. We have people from North America, South America and Europe!
+We are razrs. We have people from North America, South America and Africa!
 
 More stuff happening here when stuff gets decided.
 
 About your skills and what you are going to do?
 =======
-We are The Undecided and all we know is saopayne is working on the frontend and everyone else backend. Meetings will be held shortly to decide things. Going between PHP(CakePHP) or Node.JS
+We are #razrs and all we know is saopayne is working on the frontend and everyone else backend. Meetings will be held shortly to decide things. Going between PHP(CakePHP) or Node.JS for backend.
 
