@@ -15,7 +15,7 @@ About your team
 
 
 
-I'm Vaibhav Mule, a programmer from Bangalore, India. I wanted join because I see Koding.com is giving an opportunities to showcase their skills to at global level.
+I'm Vaibhav Mule, a programmer from Bangalore, India. I wanted to join because I see Koding.com is giving an opportunities to showcase our skills at global level.
 
 
-I'm Python guy that's going to use Python. I havn't decided which API would be used. but I have will be analysing the terms and condition of Facebook, Google and Twitter and show it in itreactive way.
+I'm Python guy, we'll be using Python(Django)for backend. I haven't decided which API would be used. but I will be analysing the terms and condition of Facebook, Google and Twitter and show it in intreactive way.
