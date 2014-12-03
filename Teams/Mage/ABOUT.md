@@ -10,7 +10,7 @@ We are Prakash, Prabin, Rajan and Michael working for Magento related Applicatio
   
   ## Language we love
   - PHP
-  - JavaScript
+  - JavaScript & Nodejs
   - XQuery & XPATH
   
   ## Databases:
