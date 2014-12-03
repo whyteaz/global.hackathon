@@ -4,7 +4,8 @@ We are a team of four located in Kenya
 
 We are passionate about technology and upto date with the current trends in the  technological space
 #our skill and what we will do
-  #languages we love workign with
+  #languages we love working with
+  
   -PHP
   -Javascript
   -Java
