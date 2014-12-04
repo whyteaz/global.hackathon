@@ -11,6 +11,7 @@
 ###Bryan Chan
 [`{google+}1](https://plus.google.com/115951082682526751272/) - [`{Facebook}`](https://www.facebook.com/shinn.kokhoong/)-
 ###Sailendra Mangranti
+[`{Google}`](https://plus.google.com/u/0/107831198150727346833)-
 
 ```
 ```
@@ -47,7 +48,7 @@ I do have experience with this programming languages:
 ```
 ```
 ####Sailendra Mangranti
-*will be upadted soon
+* PHP
 
 #Info's
 I am participating in the Hackathon along with a Bryan Chan and Sailendra Mangranti, but I'm ready to add two more who are interested and know photoshop.
