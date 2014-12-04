@@ -13,7 +13,7 @@ We are a passionate group of developers, interested in making a difference and d
 
 CTO at Mylaensys, entrepreneur and globetrotter, Apache Software Foundation fellow Mentor at the Google Summer of Code 2013, passionate developer.
 ##### Max
-Max is a traveler and entrepreneur. An ex-BCGe, he owns his own businesses in Brazil and the US with a focus on quantative modeling, analytics, and tourism. He holds a degree in Operations Research and Financia Engineering from Princeton University.
+Max is a traveler and entrepreneur. An ex-BCGr, he owns his own businesses in Brazil and the US with a focus on quantative modeling, analytics, and tourism. He holds a degree in Operations Research and Financial Engineering from Princeton University.
 
 ##### Meni 
 Software Engineer at AppScale Systems, Inc. Studied Computer Systems Technology at University of Athens, Greece. I like challenge and I'm passionate about writing code and traveling the world.
