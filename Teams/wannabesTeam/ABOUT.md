@@ -2,14 +2,14 @@
 
 We are a group of friends that are working together on side projects.
 
-Hrvoje:
+**Hrvoje**:
 - SAP ABAP by day, iOS by night
 
-Zdenko:
+**Zdenko**:
 - PHP/Symphony day and night, more backend, some frontend
 
-Davor:
+**Davor**:
 - UX/UI
 
-Dusko
+**Dusko**:
 - SAP FICO by day, Android by night with some Python on Google App Engine backend stuff.
