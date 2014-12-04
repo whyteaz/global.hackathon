@@ -15,17 +15,17 @@ My skills, languages and other dev knowledge:
 - Frontend development in
   - html, css, js
   - also tried dart
-  - vanillaJS :), angluarJS and polymer
+  - vanillaJS , angluarJS and polymer
 - Backend development in
   - php, nodeJS and dart
   - appengine, heroku
   - kinvey
 
 
-About my skills and what I'm going to do?
+What I'm going to do?
 =========================================
 
-I think, I'll target theme #2 or #4 or both and I'm going to use maybe dart or nodeJS and of course html5 with css3.
+I think, I'll target theme #1 and I'm going to use html5 with css3 and polymer.
 
 
 
