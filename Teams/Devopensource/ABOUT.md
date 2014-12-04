@@ -14,7 +14,7 @@
 - PHP
 - Magento
 - JavaScript
-- Larabel
+- Laravel
 - Node
 - Android
 - etc
