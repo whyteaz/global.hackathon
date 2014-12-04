@@ -9,11 +9,12 @@ Here we are
 
 From the [OSL](http://github.com/oslugr) we would like to boost the development of free software in the city (and the university) and to have fun while programming. There is a great pool of students, researchers and hackers and we would like to beat up the bushes a bit to know who's there and create, in the future, bigger projects.
 
-Who | Avatar |
+|Who | Avatar |
 ----| ------ |
-[JJ](http://github.com/JJ)|![JJ](https://pbs.twimg.com/profile_images/519369785616789504/qrohKeDR_400x400.png)
-----| ------ |
-
+|[JJ](http://github.com/JJ)|![JJ](https://pbs.twimg.com/profile_images/519369785616789504/qrohKeDR_400x400.png)
+|----| ------ |
+|[Pablo](http://github.com/psicobyte)|![Pablo](https://avatars0.githubusercontent.com/u/1206823?v=3&s=460)
+|----| ------ |
 
 About your skills and what you are going to do?
 =======
