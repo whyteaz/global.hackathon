@@ -1,0 +1,22 @@
+GranaHack
+================
+
+GranaHack is a team from Granada, Spain, coordinated from the [University of Granada](http://www.ugr.es) by the [Free Software Office](http://osl.ugr.es)
+
+
+Here we are
+===========================
+
+From the [OSL](http://github.com/oslugr) we would like to boost the development of free software in the city (and the university) and to have fun while programming. There is a great pool of students, researchers and hackers and we would like to beat up the bushes a bit to know who's there and create, in the future, bigger projects.
+
+Who | Avatar |
+----| ------ |
+[JJ](http://github.com/JJ)|![JJ](https://pbs.twimg.com/profile_images/519369785616789504/qrohKeDR_400x400.png)
+----| ------ |
+
+
+About your skills and what you are going to do?
+=======
+
+We do a lot of Perl, a good amount of Javascript and a bit of Python.
+
