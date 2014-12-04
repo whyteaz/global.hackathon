@@ -1,0 +1,17 @@
+{
+  "teamName": "Ghosts",
+  "members": [
+    {
+      "name": "Max Gonchar",
+      "twitter": "Maqurez",
+      "koding": "ghostleader",
+      "location": "Beer Sheva"
+    },
+    {
+      "name": "Taras Savytskyi",
+      "twitter": "TarasSavytskyi",
+      "koding": "crosver",
+      "location": "Boryspil"
+    }
+  ]
+}
