@@ -13,7 +13,8 @@ are Kenshis). But all in all, TNTeam is made of close friends, that
 all love hacking and fine arts.
 
 * `Rafik` and `Mohamed` are Back-End Developers and
-architects. They'll probably will write Clojure and Java. `Mohamed` is
+architects. They'll probably will write Clojure, Java and Javascript
+(on the browser and in node.js). `Mohamed` is
 an egg on twitter because he chose to. They began hacking since the
 nineties, and were coding for living for fourteen years now.
 * `Ibtissem` is an experienced Front-End infrastructure engineer,
@@ -51,19 +52,21 @@ threats of theft of their sensitive data...
 
 ## Technologies
 
-To be able to produce the game, we'll use a bunch of technologies:
+To be able to produce the game, we'll (most likely) use a bunch of technologies:
 
 - Web Server : nginx, httpkit (for services and websocket)
 
-- Back end Platform: Clojure / Java 8
+- Back end Platform: probably Node.js (Maybe using clojurescript),
+  with underscore.js, to get advantage from the ease of socket.io
 
-- Data Store : mongodb, Redis
+- Data Store : mongodb or Redis
 
 - Front End : Phaser.io as a HTML5 game engine.
 
-We'll be hosted at a local coworking space, Cogite. These guys were
-awesome enough to allow us to meet and enter the hackathon in their
-premices!
+We'll be hosted at a local coworking space,
+[Cogite](https://www.facebook.com/Cogite.Coworking.Space). These guys
+were awesome enough to allow us to meet and enter the hackathon in
+their premices!
 
 
 
