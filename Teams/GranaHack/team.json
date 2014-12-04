@@ -1,0 +1,17 @@
+{
+  "teamName": "GranaHack",
+  "members": [
+    {
+      "name": "JJ Merelo",
+      "twitter": "@jjmerelo",
+      "koding": "jjmerelo",
+      "location": "Granada, ES"
+    },
+    {
+      "name": "Nitin Gupta",
+      "twitter": "gniting",
+      "koding": "nitin",
+      "location": "Turin, IT"
+    }
+  ]
+}
