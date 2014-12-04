@@ -9,4 +9,4 @@ I'm [Mickel](http://mickel.me) and this is my first hackathon, which I plan to w
 - JavaScript
 
 ### Inspiration
-![](http://www.thecarbonfiberjournal.com/wp-content/uploads/2011/12/2009-Aston-Martin-One-77-Front-Angle-Tilt-1280x960.jpg)
+![](https://pbs.twimg.com/media/B4AZC2tCEAA6T-m.jpg:large)
