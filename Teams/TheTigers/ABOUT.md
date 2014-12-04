@@ -9,7 +9,7 @@ About your team
 
 | kuldip | darshan |
 |---|---|
-| ![kuldippipaliya](http://kuldippipaliya.com/img/author.png) | ![darshanlakhatariya](http://m.c.lnkd.licdn.com/media/p/6/005/019/0cc/3c20904.jpg) |
+|![kuldippipaliya](http://kuldippipaliya.com/img/author.png) | ![darshanlakhatariya](https://lh6.googleusercontent.com/-ZcmnrBNq-8E/AAAAAAAAAAI/AAAAAAAAAEM/RV3cfMasqXs/photo.jpg) |
 
 Tell us who you are, why you did you decide to join?
 ======
