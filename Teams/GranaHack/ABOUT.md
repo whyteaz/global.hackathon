@@ -15,9 +15,10 @@ From the [OSL](http://github.com/oslugr) we would like to boost the development 
 |[Pablo](http://github.com/psicobyte)|![Pablo](https://avatars0.githubusercontent.com/u/1206823?v=3&s=460)
 |[Sera](http://github.com/seravb)|![Sera](https://avatars1.githubusercontent.com/u/1315992?v=3&s=460)
 |[Renato](http://github.com/renatolrr)|![Renato](https://avatars3.githubusercontent.com/u/4101274?v=3&s=460)
+|[Pablo "Ferguson"](http://github.com/fergunet)|![Pablo](https://avatars0.githubusercontent.com/u/3056690?v=3&s=460)
 
 About your skills and what you are going to do?
 =======
 
-We do a lot of Perl, a good amount of Javascript and a bit of Python.
+We do a lot of Perl and Java, a good amount of Javascript and a bit of Python.
 
