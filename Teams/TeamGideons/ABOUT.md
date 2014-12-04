@@ -19,7 +19,7 @@
 Project will be based on the first theme.
 
 ##Languages we are using
-*Java,Php,Python,C++ and C Sharp
+* Java,Php,Python,C++ and C Sharp
 
 ##Skills
 ####Ajith Samuel
