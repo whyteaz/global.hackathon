@@ -1,25 +1,21 @@
-[imageOldGuy]: http://www.freegamersjournal.com/uploads/oldguy.jpg
-[imageTexas]: http://www.freegamersjournal.com/uploads/640texas.png
-[imageWork]: http://www.freegamersjournal.com/uploads/640work.png
 # Team Dharma49
 
 ## One guy,
-<div align="center">
-![imageOldGuy]
-</div>
+<p align="center">
+<img src="http://www.freegamersjournal.com/uploads/oldguy.jpg"/>
+</p>
 (yeah, I'm almost that old)
 
 ## Surrounded by Texas,
-<div align="center">
-![imageTexas]
-</div>
-
+<p align="center">
+<img src="http://www.freegamersjournal.com/uploads/640texas.png"/>
+</p>
 (Austin isn't *in* Texas, it's surrounded by it...)
-<div align="center">
-## who does *this* for a living:
-</div>
-![imageWork]
 
+## who does *this* for a living:
+<p align="center">
+<img src="http://www.freegamersjournal.com/uploads/640work.png"/>
+</p>
 (except that I'm doing "serious games" right now, so I'm using the Hackathon as an excuse to write fun stuff. :) )
 
 ## Obligatory Japanese Fighting-Game Style Bio
