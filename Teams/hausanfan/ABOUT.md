@@ -25,5 +25,5 @@ Debian GNU/Linux
 
 Windows 95
 +
-<a href="http://www.frikipedia.es/friki/Windows"><img hre="http://www.frikipedia.es/images/thumb/7/75/HasefrochXP.jpg/200px-HasefrochXP.jpg"></a>
+<a href="http://www.frikipedia.es/friki/Windows"><img href="http://www.frikipedia.es/images/thumb/7/75/HasefrochXP.jpg/200px-HasefrochXP.jpg"></a>
 
