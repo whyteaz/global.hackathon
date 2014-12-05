@@ -1,7 +1,7 @@
 We are The Soft Pyramid
 ================
 
-We are one of the best laravel work developers in the world, and the No.1 Laravel Framework developer on pakistan.
+We are one of the best laravel framework developers in the world, and the No.1 Laravel Framework developer in pakistan.
 
 
 About Us
