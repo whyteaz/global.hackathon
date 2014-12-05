@@ -10,7 +10,6 @@ About your team
 | Ayoub | Zineb
 |--- |--- 
 | ![Ayoub](https://raw.githubusercontent.com/zanoubia/global.hackathon/master/Teams/YopZ/img/samtheeagle.png) |![Zineb](https://raw.githubusercontent.com/zanoubia/global.hackathon/master/Teams/YopZ/img/me.png)
-
 | https://github.com/BigYopy| https://github.com/zanoubia
 
 We are Networking and System engineers who are interested in cloud computing. Thus, we discovered Koding and we liked the idea of the Global Hackathon.
