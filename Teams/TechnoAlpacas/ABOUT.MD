@@ -9,7 +9,7 @@ We program, with a humm!
 
 ##Languages we enjoy
 
-#Javascript
-#Python
-#C#
-#MOAR JAVASCRIPT!
+###Javascript
+###Python
+###C#
+###MOAR JAVASCRIPT!
