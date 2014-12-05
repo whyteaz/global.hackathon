@@ -7,22 +7,20 @@ We are Team Maracanã, in honor to the home of brazilian football teams from Rio
 About your team
 ===========================
 
-| lalkmim | coutinhop
-|--- |---
-| No picture | No picture
+| lalkmim
+|--- 
+| No picture
 
 Tell us who you are, why you did you decide to join?
 
-We are work colleagues, heard about hackathon and decided to join.
+I heard about the hackathon through a friend and decided to join.
 
-We're both first timers on hackathons and our goal is to see how far we can go.
+This is my first time on a hackathon and the goal is to see how far I can go.
 
 
 About your skills and what you are going to do?
 =======
 
-lalkmim: been a web developer for 8 years, strong background on Java and JS
+I've been a web developer for 8 years and have a strong background on Java and JS. User interface design is my main problem.
 
-coutinhop: not so experienced programmer with background mostly in UNIX and C
-
-Our goal is to develop a game that can be an entry point to anyone into the programmin world.
+The goal is to develop a game that can be an entry point to anyone into the programming world.
