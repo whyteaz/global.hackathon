@@ -6,7 +6,7 @@ We are a team from Indonesia. Basically, we are all DotA players and we love to 
 At first, we need to name our team as Tinker, like the name of hero in DotA who uses technology in his attacks (and he is from Goblin race who have changed to hyper-intelligent race in World of Warcraft), but later we change it to Thinker (in Indonesian is called "pemikir"). The Thinker also describes our team characteristics, but we do not just think, we also do it.
 
 <p align="center">
-  <img src="http://www.papolo.com/assets/tinker.png"/>
+  <img src="http://www.papolo.com/assets/tinker_s.png"/>
 </p>
 
 In Indonesia, there are a lot of digital campaign to spread the knowledge of events or products, but most of them usually just Twitter tweet competition, have a simple microsite, and get the most "like" or "share" count in social media for their tweet/post/photo.
@@ -38,6 +38,7 @@ Jeffrey is a professional software engineer currently worked at global company c
 
 [Facebook](https://www.facebook.com/pieceofsky)
 [LinkedIn](http://id.linkedin.com/pub/jeffrey-wijaya/32/85a/441)
+
 Thomas
 =======
 Although he is the the youngest web developer in our team, Thomas Rico can be considered as a senior front-end web developer. He can learn very fast, code fast, and the important thing is he have a good perspective in user experience (UX), so he does not just code but can give suggestions to create a good UI with a good UX.
