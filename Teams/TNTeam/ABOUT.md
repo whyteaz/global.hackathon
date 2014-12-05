@@ -1,7 +1,15 @@
 TNTeam rocks!
 =============
 
-## Who we Are
+<img src = "./TNTeam-LOGO.png" alt="TNTeam Rocks Logo" title="Freddie Yeah!"
+align="right">
+> "I won't be a rock star. I will be a legend."
+- Freddie Mercury
+
+
+
+
+## Who we are
 
 TNTeam consists of a mix of experienced hacker veterans, promising
 programming rising stars, and artists, all from Tunisia.  Some of us
@@ -25,7 +33,8 @@ accouns for three years experience.
 integrating cool web apps. He will learn a 2D JS Game framework for
 this contest.
 * `Chakib` is the artist of the team. He will create unique and
-  amazing artwork for our project.
+  amazing artwork for our project. He actually created our Crest,
+  "Freddy Yeah", wearing a traditional Tunisian "Chachia" - a fancy hat.
 
 TNTeam already entered
 [Clojure Cup 2014](https://clojurecup.com/#/people/teams), and ended
@@ -54,10 +63,12 @@ threats of theft of their sensitive data...
 
 To be able to produce the game, we'll (most likely) use a bunch of technologies:
 
-- Web Server : nginx, httpkit (for services and websocket)
+- Web Server : nginx, httpkit (for services and websocket), probably
+  some of Node.js facilities.
 
 - Back end Platform: probably Node.js (Maybe using clojurescript),
-  with underscore.js, to get advantage from the ease of socket.io
+  with underscore.js, to get advantage from the ease of socket.io,
+  maybe some Clojure / Java8 for some other parts.
 
 - Data Store : mongodb or Redis
 
