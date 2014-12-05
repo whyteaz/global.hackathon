@@ -41,6 +41,6 @@ Our skill
 What are we going to do?
 ===========================
 
-More coming soon...
+We are going to build a simple and interactive solution for building and viewing fine prints.
 
 
