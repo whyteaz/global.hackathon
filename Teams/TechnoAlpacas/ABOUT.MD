@@ -8,8 +8,8 @@ We program, with a humm!
 -Otto - Codemancer. C#, javascript
 
 ##Languages we enjoy
-
-###Javascript
-###Python
-###C#
-###MOAR JAVASCRIPT!
+------------------------------------------------
+####Javascript
+####Python
+####C#
+####MOAR JAVASCRIPT!
