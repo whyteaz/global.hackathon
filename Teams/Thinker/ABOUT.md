@@ -6,14 +6,12 @@ We are a team from Indonesia. Basically, we are all DotA players and we love to 
 At first, we need to name our team as Tinker, like the name of hero in DotA who uses technology in his attacks (and he is from Goblin race who have changed to hyper-intelligent race in World of Warcraft), but later we change it to Thinker (in Indonesian is called "pemikir"). The Thinker also describes our team characteristics, but we do not just think, we also do it.
 
 <p align="center">
-  <img src="http://www.papolo.com/assets/tinker.png"/>
+  <img src="http://www.papolo.com/assets/tinker_s.png"/>
 </p>
 
-In Indonesia, there are a lot of digital campaign to spread the knowledge of events or products, but most of them usually just Twitter tweet competition, have a simple microsite, and get the most "like" or "share" count in social media for their tweet/post/photo.
+Indra has made a simple game just to test users' knowledge about streetball and just for having fun in Streetball event in Indonesia, and the feedback is very good. But the application is only available in that event and is not expanded for further use.
 
-Indra has made a simple game just to test users' knowledge about streetball in Streetball event in Indonesia, and the feedback is very good. But the application is only available in that event and is not expanded for further use.
-
-Considering that feedback, we want to build a little similar game as that streetball game, but we will expand it so it can be used generally, not only for streetball event. We see a lot of potentials in this game. Any companies, any schools, any organizations, even any people from any parts of the world can use it to test his/others knowledge with a funnier way.
+Considering that feedback, we want to build a little similar game as that streetball game, but we will expand it so it can be used generally, not only for streetball event. We see a lot of potentials in this game. Any companies, any schools, any organizations, even any people from any parts of the world can use it to test his/others knowledge with a funnier way. This game can be used for many things, depend on the perspective and the goal of the people who use this.
 
 
 Our Thinker Team Members
