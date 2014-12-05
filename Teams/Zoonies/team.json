@@ -5,32 +5,26 @@
       "name": "Pam Kinnaird",
       "twitter": "pkinnaird",
       "koding": "pocketilmatto",
-      "location": "San Francisco, CA",
-      "lead": true
+      "location": "San Francisco, CA"
     }, 
     {
       "name": "Patrick Auld",
       "twitter": "",
-      "koding": "",
-      "location": "San Francisco, CA"
-    },
-    {
-      "name": "Thomas Boyles",
-      "twitter": "",
-      "koding": "",
+      "koding": "PatrickAuld",
       "location": "San Francisco, CA"
     },
     {
       "name": "Raymond Piccolotti",
       "twitter": "",
-      "koding": "",
+      "koding": "shaarptooth",
       "location": "Salt Lake City, UT"
     },
     {
-      "name": "Breanna Bibeau",
+      "name": "Margeaux Bucher",
       "twitter": "",
-      "koding": "",
-      "location": "San Francisco, CA"
+      "koding": "myepideme",
+      "location": "San Mateo, CA",
+      "lead": true
     }
   ]
 }
