@@ -5404,7 +5404,11 @@ __Why do we want to join the competition?__
 - To have fun, gain experience, meet new people and form a great team.
 
 Our Team
-========
+--------
+
+| Gabriel | Kleber | Rajesh | Venkateswaran |
+|---------|--------|--------|---------------|
+| [<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/432849?v=3&s=150' alt='Gabriel'/>](https://github.com/gdumitrescu) | [<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/245691?v=3&s=150' alt='Kleber'/>](https://github.com/klebervirgilio) | [<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/1542998?v=3&s=150' alt='Rajesh'/>](https://github.com/Rajesh-Veeranki) | [<img width="100" height="100" src='https://avatars2.githubusercontent.com/u/9083583?v=3&s=150' alt='Venkateswaran'/>](https://github.com/mailmevenkat) |
 
 #### Name: Gabriel Dumitrescu
 - Reason to participate: Prove that a distributed team can be as productive as a team working in the same room
@@ -5456,29 +5460,6 @@ We decided to join this hackathon to combine the different skills and experience
 ## What are we doing?
 Our idea is not solid yet but we will be writing a web app using Python for our back-end and HTML, JS, and CSS for our front-end.
 We will be possibly utilizing NLP technologies and APIs such as NLTK, wit.ai, or IBM Watson.
-
-
----------------------------------------
-
-This is our page
-================
-
-We are University of Akron students from Akron, OH who are passionate about software development!
-
-
-About your team
-===========================
-Drew Mazak
-
-
-Jessica Groot
-
-
-About your skills and what you are going to do?
-=======
-We are still brainstorming.
-
-
 
 
 ---------------------------------------
@@ -10915,6 +10896,22 @@ HTML, CSS ... the list is very long :)
 
 ---------------------------------------
 
+# TeamMunkey
+
+I'm Sreejith. I work, I play. Work, most of the time. But my work is my play. I make RC airplanes and play guitar when I'm not coding.
+
+## About Us
+
+- I'm a lone participant. For me, this hackathon is about pushing myself. Squeezing every drip of creative juice out of me in a very short time.
+
+## Languages 
+
+Python does most of the dirty work for me. Objective-C is my another playground. I'm perfecting my Javascript skills. But wouldn't call myself a Sensei yet.
+
+
+
+---------------------------------------
+
 My name is Vadym. 
 
 I'm python developer from Ukraine.
@@ -12347,6 +12344,18 @@ We believe, No defeat is final...untill you stop Trying!!
 
 ---------------------------------------
 
+
+
+ Team Var Foo!
+ 
+ Our Languages
+ Javascript
+ ROR
+ Python
+
+
+---------------------------------------
+
 The Vegan Zombies
 ================
 
@@ -13066,6 +13075,22 @@ Some of the things I'll probably use:
  - Any other APi I can build in in time that can enhance the applications that users build.
  
 I might change my mind, and build applications using firebase instead of App Engine.
+
+
+
+---------------------------------------
+
+
+
+#team bleedblack
+
+hi i m Pushpak Solanki from Aurangabad,MS,INDIA
+i am an individual partipant,without any team member,
+
+I am an IT Enggeneering Student ,like to code and hack the problems out..!!!
+
+--I like Javascript,nd like to define a new code.
+I m not that good or pro in coding,but can perform all of its basic tasks.
 
 
 
