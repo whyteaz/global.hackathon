@@ -3,7 +3,7 @@ Thinker Team
 
 We are a team from Indonesia. Basically, we are all DotA players and we love to make applications. DotA is a popular game, developed by IceFrog, and then by Valve Corporation.
 
-At first we need to name our team as Tinker, like the name of hero in DotA who uses technology in his attacks (and he is from Goblin race who is the smartest race in World of Warcraft), but later we change it to Thinker (in Indonesian is called "pemikir"). The Thinker also describes our team characteristics, but we do not just think, we also do it.
+At first, we need to name our team as Tinker, like the name of hero in DotA who uses technology in his attacks (and he is from Goblin race who have changed to hyper-intelligent race in World of Warcraft), but later we change it to Thinker (in Indonesian is called "pemikir"). The Thinker also describes our team characteristics, but we do not just think, we also do it.
 
 <p align="center">
   <img src="http://www.papolo.com/assets/tinker.png"/>
