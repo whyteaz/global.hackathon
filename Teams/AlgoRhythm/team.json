@@ -10,21 +10,9 @@
     },
     {
       "name": "Eric Rinkus",
-      "twitter": "",
-      "koding": "",
+      "twitter": "ahat",
+      "koding": "death_by_hat",
       "location": "Madison, US"
-    },
-    {
-      "name": "Chase Goretke",
-      "twitter": "",
-      "koding": "",
-      "location": "Houghton, US",
-    },
-    {
-      "name": "Jay Vana",
-      "twitter": "",
-      "koding": "",
-      "location": "Houghton, US"
-    },
+    }
   ]
 }
