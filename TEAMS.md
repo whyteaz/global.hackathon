@@ -840,13 +840,14 @@ About the team
 Who we are?
 ===========================
 
-More coming soon...
+We are 4 friends and work colleagues with common interests like: software development, innovation and entrepreneurship.
+The 4 of us has are experiences in the whole software development cycle and with very strong skills working in both
+frontend and backend development of a software.
 
 Why we decide to join?
 ===========================
 
-We love Hackathons and we love coding. 
-More coming soon..
+We love Hackathons because it challenges us to build a solution to a specific problem in a very short period of time and because we would like to be part of the first virtual Hackathon.
 
 Our skills
 ===========================
@@ -857,12 +858,16 @@ Our skills
 - Angular
 - MongoDB
 - Scrum
-- More coming soon...
+- Nancy
+- MVC
+- Bootstrap
+- ExpressJS
+- SPA
 
 What are we going to do?
 ===========================
 
-More coming soon...
+We are going to build a simple and interactive solution for building and viewing fine prints.
 
 
 
@@ -1589,32 +1594,17 @@ BabesFromVictoria
 The Team
 ===========================
 
-| Erika | Leslie | Quintan | Jeremy
+| Erika | Leslie | Jeremy
 |--- |--- |--- |---
-| <img width="100" height="100" src='https://gravatar.com/avatar/5608c1777ec53c15a869483cae2fa881?size=150&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.150.png&r=g' alt='Erika'/> | <img width="100" height="100" src='' alt='Leslie'/>| <img width="100" height="100" src='' alt='Quintan'/>| <img width="100" height="100" src='https://koding.com/-/image/cache?endpoint=crop&grow=true&width=150&height=150&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fpollodiablo%2Favatar-1416941509973' alt='Jeremy'/> |
+| <img width="100" height="100" src='https://gravatar.com/avatar/5608c1777ec53c15a869483cae2fa881?size=150&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.150.png&r=g' alt='Erika'/> | <img width="100" height="100" src='' alt='Leslie'/>| <img width="100" height="100" src='https://koding.com/-/image/cache?endpoint=crop&grow=true&width=150&height=150&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fpollodiablo%2Favatar-1416941509973' alt='Jeremy'/> |
 
 Total babes, right? We joined to learn and demonstrate our skills, and because a global hackathon sounds awesome!
 
+Unfortunately, stress got the better of us and we have chosen not to participate in this hackathon, but instead study for our end-of-term finals. (Operating Systems, Database Management, AND Security Engineering?! Ickk!)
 
-Our skills
-=======
-Erika - 3rd year Software Engineering student who loves python, user interaces, and is able to make C cooperate.
+In any case, we wish the best of luck to all other teams! Happy Hacking!
 
-Leslie - 4th year Computer Science student. Co-op experience in cloud computing, database management and front-end design & implementation. 
-
-Quintan - blurb
-
-Jeremy - 3rd year BSEng. Best with C/C++ and Java/Groovy. Co-op experience primarily with QA and test automation.
-
-
-What we'll do
-=======
-We've chosen to combine themes 3 & 4 - we're going to create a fun HTML5 game to encourage users to read EULAs.
-
-Technologies we'll use: ...
-APIs we'll use : ...
-
-Then we're going to win.
+#[StressedOut]BabesFromVictoria
 
 
 ---------------------------------------
@@ -8637,12 +8627,12 @@ That's not it, well yeah, we are team in both real world and this koding event. 
 We always work remotely and this event is our chance to do some work together and train our work team (and conquer the world).
 This is our double live. To live as a coder, die as a legend.
 
-About Our Team
+Sounds Plummy :)
 ===========================
 
 | bagus | rizky | bayu | adit
-|--- |--- |--- 
-| <img width="100" height="100" src='http://plummy.web.id/images/maja.png' alt='Bagus'/> | <img width="100" height="100" src='http://plummy.web.id/images/rizky.png' alt='Rizky'/> | <img width="100" height="100" src='http://plummy.web.id/images/bayu.png' alt='Bayu'/> | <img width="100" height="100" src='https://www.facebook.com/photo.php?fbid=10205430099341015&set=a.2936968232368.2151522.1505994630&type=1&theater' alt='adit'/> 
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://scontent-b-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/155991_3985471201867_748649182_n.jpg?oh=3b29b1b628ff7b2709b0f56819c13d22&oe=551C6B5E' alt='Bagus'/> | <img width="100" height="100" src='https://scontent-a-sin.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/20036_105831439443381_1491895_n.jpg?oh=fac8361d23bf14607bc62f1f94063a01&oe=54FB283B' alt='Rizky'/> | <img width="100" height="100" src='https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1794696_10202024983039989_1758303051_n.jpg?oh=5932b9ee6d5c016f724b86e350ca30d2&oe=550E95FA&__gda__=1426117920_6c28aeb9534154d5c551cb520eeeac01' alt='Bayu'/> | <img width="100" height="100" src='https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/321164_2714223663893_1467828379_n.jpg?oh=175896402103a3d2b320013f3fa74000&oe=550B72A1&__gda__=1427307880_3599150be350fdf4b23daa3530587fc7' alt='adit'/> 
 
 Bagus
 ----------
@@ -11727,6 +11717,15 @@ Intermediate Languages
 
 ---------------------------------------
 
+
+languages
+
+- PHP
+- Javascript
+
+
+---------------------------------------
+
 #Team_Super
 
 I am Virgil Fritz Taneza and I do awesome things by myself!
@@ -13400,6 +13399,32 @@ http://zhvillues.tumblr.com/
 
 ---------------------------------------
 
+About the Team
+===========================
+
+We are the Zoonies! We're a group of burners & technology lovers from San Francisco and Utah!
+
+TL;DR: Thomas, Patrick, and Ray (maybe?) work in some sort of job where they have stand-up meetings on a daily basis.  Pam is spending some time with electric cars and Margeaux, source of inspiration, light and joy, is our resident aesthician, product instigator, scrummaster and wordsmith.
+ 
+
+Skills and Plans
+=======
+As a combined team, we use these languages on the daily:
+- Javascript
+- Java
+- Python
+- Ruby on Rails
+
+APIs that we are like include but are not limited to:
+- Twitter
+- Google Predictions
+- Google Geocoding
+- Google Freebase
+
+Leaning toward theme #1, we're tossing around ideas of integrating environment, suprise data types, and biometrics data over time.  Looking to generate a web-kit app that can pull in data from a backend service with configurable data-feeds.
+
+---------------------------------------
+
 Zphalcon
 ================
 We are located in Ho Chi Minh, Vietnam.
@@ -14177,15 +14202,13 @@ Web Pages
 
 ---------------------------------------
 
-# emom
+# Emom team
 
-## Skills
+| <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/761285?v=3&s=460' alt='ilyar'/>
+|---
+| [@ilyar](https://github.com/ilyar) full-stack developer
 
-Programming languages (that may be used):
-
-	- PHP (Yii)
-	- HTML/CSS and JS (i-bem, jQuery, NodeJs, BackboneJs, AngularJS)
-
+> even if you have eaten you have two choices
 
 ---------------------------------------
 
@@ -14714,15 +14737,10 @@ I am a young developer who was inspired by a robotics team in his highschool to 
 
 I want to win this competition because I want to prove to myself that all my hard work of learning programming and development has paid off and that I can compete on a professional level. This field is hard and demanding and even though I may not have had the most technologically enriching environment growing up, my gusto and ingenuity will be my keys to victory.
 
-Plan
-=======
-I am not 100% sure what I want to do yet. I am still working on an idea but a couple of technologies that I have at my disposal include but are not limited to:
+My Project - Babylon
+===========================
 
-* Android Development (Phone, tablet, and Glass)
-* Web Technologies (Php, HTML5, CSS3, Javascript/JQuery)
-* Face ++ (Facial Recognition API)
-* Facebook API
-* Arduino Development
+This project is going to be a step up from the Star Trek Universal Translator.
 
 ---------------------------------------
 
