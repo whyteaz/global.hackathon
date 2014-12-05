@@ -32,7 +32,11 @@ Our skill
 - Angular
 - MongoDB
 - Scrum
-- More coming soon...
+- Nancy
+- MVC
+- Bootstrap
+- ExpressJS
+- SPA
 
 What are we going to do?
 ===========================
