@@ -5,6 +5,8 @@ Man-Machine AI studios
 
 ## About me
 <a href="http://about.me/mmayorga"><img src="http://d13pix9kaak6wt.cloudfront.net/avatar/users/m/m/a/mmayorga_1400501911_63.png"/></a>
+<img src="http://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png" width="100"/> Based in Madrid, Spain.
+
 
 Marcos F. Mayorga is the lonely esoul.
 B.Sc. Physics.
