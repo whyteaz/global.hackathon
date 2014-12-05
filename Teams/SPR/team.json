@@ -1,14 +1,12 @@
 {
-  "teamName": "SPR",
-  "members": [
-    {
-      "name": "Shekhar Prasad Rajak",
-      "twitter": "Shekharrajak",
-      "koding": "shekharrajak",
-      "location": "Warangal, IN"
-    },
-   
-    
-   
-  ]
+    "teamName": "SPR",
+    "members": [
+        {
+            "name": "Shekhar Prasad Rajak",
+            "twitter": "Shekharrajak",
+            "koding": "shekharrajak",
+            "location": "Warangal, IN",
+            "lead": true
+        }
+    ]
 }
