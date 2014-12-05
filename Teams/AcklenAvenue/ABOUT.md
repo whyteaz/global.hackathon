@@ -14,7 +14,9 @@ About the team
 Who we are?
 ===========================
 
-More coming soon...
+We are 4 friends and work colleagues with common interests like: software development, innovation and entrepreneurship.
+The 4 of us has are experiences in the whole software development cycle and with very strong skills working in both
+frontend and backend development of a software.
 
 Why we decide to join?
 ===========================
