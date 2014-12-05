@@ -3,7 +3,7 @@ Prince  (The Team formerly known as ¯\_(ツ)_/¯)
 
 ![Banner](http://i.imgur.com/2XOdQCy.jpg)
 
-This page is all about Prince (The Team formerly known as ¯\_(ツ)_/¯) our team name is a symbol, kind of like Prince, only better. We're a post-structualist group of programmers who happen to love pancakes and basketball.
+This page is all about Prince (The Team formerly known as ¯\_(ツ)_/¯) our team name is a symbol, kind of like Prince, only better. 
 
 
 Who is ¯\_(ツ)_/¯?
