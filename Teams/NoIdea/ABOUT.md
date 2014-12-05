@@ -19,7 +19,6 @@ We are part of a young start-up, and we joined this hackathon to challenge ourse
 About skills and project
 ========================
 The goal of our project is to show the correlation between good analogies and the mastering of programming skills via simple games. This corresponds to the second theme.
-To be fair, we can work with many languages and frameworks. But, for this particular project, we may use only these:
-	- C
-	- VB.NET
+To be fair, we can work with many languages and frameworks. But, for this particular project, we may use these:
+	- C || Lua || Php
 	- HTML and JS
