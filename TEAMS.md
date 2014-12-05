@@ -2606,6 +2606,48 @@ I am a technology enthusiastic about civic solutions to improve our lifestlye th
 
 ---------------------------------------
 
+CleverCrypter
+================
+
+Welcome to the CleverCrypter one man team page.
+
+About CleverCrypter
+===========================
+
+| Jack Atkinson
+|---
+| <img width="100" height="100" src='http://i.imgur.com/DTbcYdR.jpg' alt='Devrim'/>
+
+Hello, my name is Jack Atkinson! I'm an Australian citizen born July, 1996 who moved to America in 2005 which
+is where I currently reside. Since I first gained the ability to turn on my mothers computer I have had an avid
+interest in how they work. My curiosity was not getting me into too much trouble until I had a failed attempt at
+dual booting her computer with Ubuntu. The end result of that endeavor led to her computer being sent back
+to HP for the first time. That interest has manifested itself into a love for programming and solving problems
+with computers. After delving deeper and deeper into the land of software development I had heard about hackathons
+but thought they were a little bit above my level. When I read about Koding's Virtual Hackathon that was mostly
+aimed towards High School students, I thought I should give it a shot and to my astonishment and excitement I was
+accepted! One fact that made this competition stick out to me was that I didn't need to travel anywhere which made
+it easily accessible as I am in my senior year at high school.
+
+Skills
+========
+Currently my strongest skills are: C++, C#, Python, HTML, CSS, DOS(Batch Files)
+
+For this project I plan on expanding my skillset of Javascript.
+
+
+The Plan
+========
+I have chosen the theme of Introducing software development to a beginner. To make my idea a reality I will be
+using the following API's:
+
+CreateJS 
+
+Ace
+
+
+---------------------------------------
+
 #About our Team
 
 Suresh | Eshwar
@@ -7397,25 +7439,23 @@ We are Team Maracanã, in honor to the home of brazilian football teams from Rio
 About your team
 ===========================
 
-| lalkmim | coutinhop
-|--- |---
-| No picture | No picture
+| lalkmim
+|--- 
+| No picture
 
 Tell us who you are, why you did you decide to join?
 
-We are work colleagues, heard about hackathon and decided to join.
+I heard about the hackathon through a friend and decided to join.
 
-We're both first timers on hackathons and our goal is to see how far we can go.
+This is my first time on a hackathon and the goal is to see how far I can go.
 
 
 About your skills and what you are going to do?
 =======
 
-lalkmim: been a web developer for 8 years, strong background on Java and JS
+I've been a web developer for 8 years and have a strong background on Java and JS. User interface design is my main problem.
 
-coutinhop: not so experienced programmer with background mostly in UNIX and C
-
-Our goal is to develop a game that can be an entry point to anyone into the programmin world.
+The goal is to develop a game that can be an entry point to anyone into the programming world.
 
 ---------------------------------------
 
@@ -8594,14 +8634,15 @@ Welcome to Plummy
 
 We are the Plummy team, so we are participating.
 That's not it, well yeah, we are team in both real world and this koding event. We are doing many projects as a startup currently. All of our team are Indonesian, but one of our team currently living in Melbourne.
-We always work remotely and this event is our chance to do some work together and train our work team.
+We always work remotely and this event is our chance to do some work together and train our work team (and conquer the world).
+This is our double live. To live as a coder, die as a legend.
 
-About your team
+About Our Team
 ===========================
 
-| bagus | rizky | bayu
+| bagus | rizky | bayu | adit
 |--- |--- |--- 
-| <img width="100" height="100" src='http://plummy.web.id/images/maja.png' alt='Bagus'/> | <img width="100" height="100" src='http://plummy.web.id/images/rizky.png' alt='Rizky'/> | <img width="100" height="100" src='http://plummy.web.id/images/bayu.png' alt='Bayu'/> 
+| <img width="100" height="100" src='http://plummy.web.id/images/maja.png' alt='Bagus'/> | <img width="100" height="100" src='http://plummy.web.id/images/rizky.png' alt='Rizky'/> | <img width="100" height="100" src='http://plummy.web.id/images/bayu.png' alt='Bayu'/> | <img width="100" height="100" src='https://www.facebook.com/photo.php?fbid=10205430099341015&set=a.2936968232368.2151522.1505994630&type=1&theater' alt='adit'/> 
 
 Bagus
 ----------
@@ -8617,6 +8658,10 @@ Bayu
 --------
 
 Bayu is UI/UX guy, who works mostly with photoshop and other UI tools, he is also our business guy, please talk money with him.
+
+Adit
+-------
+Size doesn't matter. She might be small yet powerful designer. One and only girl in our team. 
 
 
 
@@ -9343,8 +9388,16 @@ Other information:
 # Shack
 
 We are a bunch of developers from all corners of the world
+<p align="center">
+  <img src="http://i.vimeocdn.com/video/465255665_640.jpg"/>
+</p>
 
-## About Us & Skills
+## About Us 
+| Nikhil | Archie | Ismail | Tyler
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/nikhil.jpg' alt='Nikhil Sapkota'/> | <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/archie.jpg' alt='Archie Makuwa'/> | <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/sim.jpg' alt='Sim Ismail'/> | <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/tyler.jpg' alt='Tyler'/> |
+
+## Skills
 - Nikhil Sapkota (UX Designer and Web Developer | Nepal)
 - Archie Makuwa (Web developer - php, html5, css3, and js | South Africa)
 - Sim Ismail (Node.JS and MongoDB developer | UK)
@@ -9552,7 +9605,7 @@ Skills
 We are The Soft Pyramid
 ================
 
-We are one of the best laravel work developers in the world, and the No.1 Laravel Framework developer on pakistan.
+We are one of the best laravel framework developers in the world, and the No.1 Laravel Framework developer in pakistan.
 
 
 About Us
@@ -9562,6 +9615,7 @@ We have Developed and Delivered Enterprise Level Custom Solutions like CRM's , O
 About our skills and what we'll do
 =======
 We would like create an awesome web application using Laravel Framework and Angular JS wrapped in a Twitter bootstrap theme.
+
 
 ---------------------------------------
 
@@ -12054,18 +12108,24 @@ I will go with Theme#1 to develop application.
 
 TheTwoPeas
 ==========
-We are two good friends located in Hungary.
+We are two programmers from Hungary and good friends. We live near each other, helped each other developing our programmer skills and until recently used to work at the same place. We are really like two peas in a pod. That’s how we’ve came up with the name. And our nicknames helped: Pali & P. The two P’s. And P sounds like pea, right?!
+We are awesome that way…
+
+| Kalmar Gabor | Takacs Pal 
+|--- |---
+| <img width="100" height="100" src='http://chino.hu/kalmi_small.png' alt='Kalmar Gabor'/> | <img width="100" height="100" src='http://chino.hu/pali_small.png' alt='Takacs Pal'/> | 
 
 About our team
 ==============
-We are experienced programmers, mostly we do web developments. We love challenges and complex coding problems.
+Well, you already know where we are from and that we are best friends. And we are programmers. We are used to working together and understand each other’s strengths and weaknesses. Not that we have much of the latter. :) We aren’t afraid of challenges and trying something new.
+When not working, Pali plays chess, builds electronic devices and an enthusiastic watcher of TV shows. P likes to play computer games and music on his guitar, listen to music and running.
+We joined the Hackathon, because we could not resist the challenge.
 
 Skills
 ======
-PHP
-C/C++/C#
-Javascript
-Python
+We know quite a lot languages and we’re gonna bore you with the list:
+PHP, Javascript (Ajax), jQuery, ExtJS, Java, C/C++, C#, Python, MySQL, PostgreSQL, OracleSQL, CSS, XML, HTML.
+Pali will do the coding for the problems facing our planet theme (he loves science and his girlfriend is an Earth Scientist, so he listens to that 24/7) and P will do the EULA part because he likes torturing people. Just kidding… :)
 
 
 ---------------------------------------
@@ -12254,6 +12314,21 @@ About your skills and what you are going to do?
 =======
 
 Java, Scala, CSS/HTML + JavaScript, AngularJS, C#
+
+
+---------------------------------------
+
+First off, we just wanted to let you know that we are highschool students (Sophmores). We attend New Tech in Evansville Indiana!
+
+Hi, our names are Maddox W, Jon P, and Elijah G. You could never call us "Expert coders", but eventually, if we try hard
+enough we can usually always find a way to figure anything out together.
+
+We decided to join the Koding Hackthon really for fun, and to learn more. We were so surprised that we got accepted out of the 20,000 applicants!
+We were so excited to her that, and if we have thse chances, we might have the chance to win!
+
+Just a couple guys who wanna code and have a good time!
+
+If we every won this competition, which we might, we have definatly decided that some of the money will go to our school, but some we'd get to keep. :)
 
 
 ---------------------------------------
@@ -15191,24 +15266,26 @@ I'm Luke Sawicki, I'm specialising in GIS solutions.
 
 # nullpointer (exception)
 
-Our team geeks:
-Sergiu known as smotru
-Robert aka chinezu
-Cristi as pantazi
+ #### Our team geeks:
+- Sergiu known as smotru
+- Robert aka chinezu
+- Cristi as pantazi
+- Victor (Ditu)
 
 ## About us
-Software engineers (aspiring), we are studying at Technical University of Cluj-Napoca, Romania.
-Sergiu, known as smotru, studies Computer Science in 3rd year and branch manager @ Catalysts Software Romania is addicted to web development and one of the coolest guys ever. 
-Robert, aka chinezu, studies Automatic Control in 3rd year and software developer @ Catalysts Software Romania is passionate in game / software development and mathematics.
-Cristi, as pantazi, studies Automatic Control in 3rd year and software developer @ Klever Systems is one of the best at robotic stuff and physics.
+- Software engineers (aspiring), we are studying at Technical University of Cluj-Napoca & Babes-Bolyai University, Romania.
+- Sergiu, known as smotru, studies Computer Science in 3rd year and branch manager @ Catalysts Software Romania is addicted to web development and one of the coolest guys ever. 
+- Robert, aka chinezu, studies Automatic Control in 3rd year and software developer @ Catalysts Software Romania is passionate in game / software development and mathematics.
+- Cristi, as pantazi, studies Automatic Control in 3rd year and software developer @ Klever Systems is one of the best at robotic stuff and physics.
+- Victor (Ditu) studies at Babes-Bolyai University in 3rd year and software developer @ Catalysts Software Romania - expert in big-data and backend stuff + cooler then Sergiu, known as smotru.
 
 ## Languages we talk
-Java
-Java
-JavaScript
-HTML
-CSS
-C#
+- Java
+- Java
+- JavaScript
+- HTML
+- CSS
+- C#
 
 
 ---------------------------------------
