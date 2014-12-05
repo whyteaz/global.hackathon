@@ -23,7 +23,7 @@ Debian GNU/Linux
 
 ## Pseudo Operating Systems
 
-Windows 95
+<img src="https://kevcom.com/images/macwindows/macwindows.jpg"/>
 +
 <a href="http://www.frikipedia.es/friki/Windows"><img src="http://www.frikipedia.es/images/thumb/7/75/HasefrochXP.jpg/200px-HasefrochXP.jpg"></a>
 
