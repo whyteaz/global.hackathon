@@ -14,13 +14,14 @@ About the team
 Who we are?
 ===========================
 
-More coming soon...
+We are 4 friends and work colleagues with common interests like: software development, innovation and entrepreneurship.
+The 4 of us has are experiences in the whole software development cycle and with very strong skills working in both
+frontend and backend development of a software.
 
 Why we decide to join?
 ===========================
 
-We love Hackathons and we love coding. 
-More coming soon..
+We love Hackathons because it challenges us to build a solution to a specific problem in a very short period of time and because we would like to be part of the first virtual Hackathon.
 
 Our skills
 ===========================
@@ -31,11 +32,15 @@ Our skills
 - Angular
 - MongoDB
 - Scrum
-- More coming soon...
+- Nancy
+- MVC
+- Bootstrap
+- ExpressJS
+- SPA
 
 What are we going to do?
 ===========================
 
-More coming soon...
+We are going to build a simple and interactive solution for building and viewing fine prints.
 
 
