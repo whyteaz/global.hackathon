@@ -22,10 +22,11 @@ var apiKey = window.prompt('sprintly API key:');
 // The client returns a products Backbone collection as well as a user Backbone model
 var client = sprintly.createClient(email, apiKey);
 
-// Fetch your Sprintly products' data. (note: returns jquery promise)
-// Get the product that you'd like to pull items from.
+// Fetch your Sprintly products. (note: returns jquery promise)
+// Get the product that you'd like to pull items from, passing your product's id to get().
+// Easiest way to get your product's id from the url: https://sprint.ly/product/product_id/...
 var products = client.products.fetch();
-var myProduct = client.products.get(1);
+var myProduct = client.products.get(<YOUR_PRODUCT_ID>);
 
 // Pull in all items in your project's backlog. (note: returns jquery promise)
 // When all backlog items are fetched, log the collection count to the console.
