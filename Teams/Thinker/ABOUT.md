@@ -3,7 +3,7 @@ Thinker Team
 
 We are a team from Indonesia. Basically, we are all DotA players and we love to make applications. DotA is a popular game, developed by IceFrog, and then by Valve Corporation.
 
-At first we need to name our team as Tinker, like the name of hero in DotA, but later we change it to Thinker (in Indonesian is called "pemikir"). The Thinker also describes our team characteristics. We have thought a lot of applications to be made (some are in development progress, some have been created, and some are abandoned).
+At first we need to name our team as Tinker, like the name of hero in DotA who uses technology in his attacks (and he is from Goblin race who is the smartest race in World of Warcraft), but later we change it to Thinker (in Indonesian is called "pemikir"). The Thinker also describes our team characteristics, but we not just think, we also do it.
 
 <p align="center">
   <img src="http://www.papolo.com/assets/tinker.png"/>
@@ -21,23 +21,27 @@ Our Thinker Team Members
 
 Indra
 =======
-Indra Winata is a professional back-end web developer (can do front-end stuff too) who have learnt a lot of things about web development and have passion in it. He always want to make perfect, creative, useful, and interesting applications. The more people who use his hand-made applications, the happier he is. DotA characteristics: supportive
+Indra Winata is a professional back-end web developer (can do front-end stuff too) who have learnt a lot of things about web development and have passion in it. He always want to make perfect, creative, useful, and interesting applications. The more people who use his hand-made applications, the happier he is.
+
 [Facebook](https://www.facebook.com/1ndr4.w)
 [LinkedIn](http://id.linkedin.com/pub/indra-winata/50/193/186)
 
 Martono
 =======
-Martono background is a back-end web developer, but currently he runs a Tour and Travel business. Martono can convert any idea into a business, even if it is not his original idea. In this team, he focus on digital assets acquisition and modification, and content creation for demo usage. DotA characteristics: offensive
+Martono background is a back-end web developer, but currently he runs a Tour and Travel business. Martono can convert any idea into a business, even if it is not his original idea. In this team, he focus on digital assets acquisition and modification, and content creation for demo usage.
+
 [Facebook](https://www.facebook.com/martono.voltz)
 
 Jeffrey
 =======
-Jeffrey is a professional software engineer currently worked at global company called Accenture in Indonesia. He even make his own Java Framework to be used in his company. He also have a passion in technology area. DotA characteristics: offensive
+Jeffrey is a professional software engineer currently worked at global company called Accenture in Indonesia. He even make his own Java Framework to be used in his company. He also have a passion in technology area.
+
 [Facebook](https://www.facebook.com/pieceofsky)
 [LinkedIn](http://id.linkedin.com/pub/jeffrey-wijaya/32/85a/441)
 Thomas
 =======
-Although he is the the youngest web developer in our team, Thomas Rico can be considered as a senior front-end web developer. He can learn very fast, code fast, and the important thing is he have a good perspective in user experience (UX), so he does not just code but can give suggestions to create a good UI with a good UX. DotA characteristics: supportive 
+Although he is the the youngest web developer in our team, Thomas Rico can be considered as a senior front-end web developer. He can learn very fast, code fast, and the important thing is he have a good perspective in user experience (UX), so he does not just code but can give suggestions to create a good UI with a good UX.
+
 [Facebook](https://www.facebook.com/thomas.rico91)
 [LinkedIn](http://id.linkedin.com/pub/thomas-rico/5a/76/186)
 
