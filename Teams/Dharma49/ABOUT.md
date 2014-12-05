@@ -1,3 +1,5 @@
+[Arthur Ryu]: https://www.youtube.com/watch?v=7FPELc1wEvk
+
 # Team Dharma49
 
 ## One guy,
@@ -25,7 +27,7 @@
 + Weight: 180 lbs
 + Eye Color: brown
 + Hair Color: brown
-+ Fighting Stype: [id]: https://www.youtube.com/watch?v=7FPELc1wEvk "This..."
++ Fighting Stype: [Arthur Ryu]
 + Likes: Javascript, Objective C, Dogs, Cookies, Judge Dredd
 + Dislikes: Brussel Sprouts, Star Trek: Into Darkness (don't mess with "Wrath of Khan")
 
