@@ -3,9 +3,9 @@
 We program, with a humm!
 
 ##
--Johan - Webdev and team lead. 
+- Johan - Webdev and team lead. 
 
--Otto - Codemancer. C#, javascript
+- Otto - Codemancer. 
 
 ##Languages we enjoy
 ------------------------------------------------
