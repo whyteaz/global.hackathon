@@ -24,7 +24,7 @@ Anyways that is a short story of me and programming languages.
 -Python
 -c++.net
 
-#API's I Love.
+#API's we love.
 -Facebook API
 -Google Maps API
 -Myspace API
