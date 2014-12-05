@@ -1,19 +1,30 @@
 Tooring Analytics
 ================
 
-Hello, this is the 'Tooring Analytics' team
+Hello, this is the 'Tooring Analytics' team..well, just one guy, actually. :-)
 
 About your team
 ===========================
 
-My name is Anshuman K, currently based out of London.
+My name is Anshuman K, and I split my time between London & Pune, India.
 
 
-About your skills and what you are going to do?
+Skills
 =======
 
 So-called "Full-stack" :).
 Python, R, Java, Scala, Android, CSS/HTML + JavaScript.
 Experienced systems programmer but now interested in Machine Learning/AI, Statistics.
 
-Plan to work on one of themes #2 or #3 or even #5. Hope to narrow down something soon.
+What am I going to do?
+=======
+
+Climate change is a pretty contentious topic -- there are the believers, the deniers, and then the wise ones who know the facts or who know they don't know the facts. Sometimes the only way you can be sure temperatures are rising is pitting the believers against the deniers in a climate change debate.
+
+My idea is to build a forum that puts publically available climate change data centrestage, and thus spark a rational & insightful debate about the data -- to cut through the hysteria and the stubbornness and provide an environment where the data can speak for itself -- through visualization, of course.
+
+
+
+
+
+

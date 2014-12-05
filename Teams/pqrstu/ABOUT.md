@@ -25,3 +25,13 @@ Thank you for taking your time to read this page.
 
 Regards,
    Prajogo Tio
+
+###UPDATE: Another Member!
+
+###Knock, knock, who's there?
+He is Andhieka Putra, an enthusiastic Year 2 Computer Science undergraduate from National University of Singapore. Github: [github.com/andhieka](https://github.com/andhieka). He really likes to play the guitar and he is making an app to help newbies learn to play the guitar. He calls it the [Guitar Academy](https://github.com/guitar-academy).
+
+We have been friends since eternity.
+
+We will be working together to bring out the best of our abilities :D :boom:
+

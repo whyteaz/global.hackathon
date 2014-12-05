@@ -6,7 +6,7 @@ About your team
 ===========================
 
 - Nootan Ghimire   -- http://github.com/nootanghimire
-- Nishan Bajracharya  -- http://gitub.com/Nishan13
+- Nishan Bajracharya  -- http://github.com/Nishan13
 - Rhoit Man Amatya  -- http://rhoit.github.io/bio/
 
 We are two undergrad students currently pursuing a bachelor's degree in Computer Engineering. And one graduate student doing Masters by Research.

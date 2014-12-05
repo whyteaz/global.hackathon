@@ -9,8 +9,7 @@ in building an application in 48h and competing on world level!
 
 - Tea: design master
 - Martina: UX master
-- Stanko: front-end master
-- Miłosz: REST API master
+- Miłosz: frond-end and REST API master
 - Anamarija: back-end master
 
 As you can see, we are all masters, each specialized in specific field.

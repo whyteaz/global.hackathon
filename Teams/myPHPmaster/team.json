@@ -2,9 +2,16 @@
   "teamName": "myPHPmaster",
   "members": [
     {
-      "name": "Mohd Othman",
+      "name": "Mohd Sufian Othman",
       "twitter": "waja126",
       "koding": "myphpmaster",
+      "location": "Selangor, MY",
+      "lead": true      
+    },
+    {
+      "name": "Bahrom Baharin",
+      "twitter": "",
+      "koding": "bahrombaharin",
       "location": "Kuala Lumpur, MY"
     }
   ]

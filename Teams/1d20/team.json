@@ -2,7 +2,7 @@
   "teamName": "1d20",
   "members": [
     {
-      "name": "Anthony Adamiv",
+      "name": "Anton Adamiv",
       "twitter": "detonavomek",
       "koding": "detonavomek",
       "location": "Kyiv, UA",
@@ -22,8 +22,14 @@
     },
     {
       "name": "Dmitry Pryadko",
-      "twitter": "yesthymajesty",
+      "twitter": "Thy_Majestie",
       "koding": "thymajesty",
+      "location": "Kyiv, UA"
+    },
+    {
+      "name": "Alina Knyshh",
+      "twitter": "knyshh",
+      "koding": "knyshh",
       "location": "Kyiv, UA"
     }
   ]

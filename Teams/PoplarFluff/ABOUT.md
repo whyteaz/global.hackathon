@@ -1,13 +1,6 @@
 
 # PoplarFluff Team
 
-Coming soon
+We are the PoplarFluff team. We are team of programmers from Smolensk.
 
-# About Us
-
-Coming soon
-
-# Languages
-
-- Javascript
-- PHP
+We love PHP and JavaScript.

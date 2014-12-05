@@ -1,19 +1,31 @@
 # myPHPmaster
 
-Another team for Koding global hackathon.
+Another team for Koding global hackathon from Malaysia.
 
-## About me
+# About Us
 
-My name is Mohd Othman from Kuala Lumpur, Malaysia.
+## Mohd Sufian Othman
+Professional engineer now doing M.Sc. in Universiti Kebangsaan Malaysia, Bangi, Selangor. 
 
-## My Project
+## Bahrom Baharin
+Professional engineer working at Public Works Department HQ, Kuala Lumpur.
 
-Yet to decide.
+# Our Project
+
+We will focus on developing web application that highlight world's global issue with interactive data visualization.
 
 ## Language to use
 
 - PHP
-- mySQL
 - Javascript
-- HTML5
+- HTML
 - CSS3
+- jQuery
+- AJAX
+- jSON
+
+## API to use
+
+- Google Map
+- Google Places
+- Geocoding

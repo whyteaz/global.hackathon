@@ -3,7 +3,7 @@ About Me
 
 | Krishna
 |---
-| ![Krishna](https://pbs.twimg.com/profile_images/533563528326569984/Y_roXyC8.jpeg) |
+| ![Krishna](https://lh3.googleusercontent.com/-zgQnZA8K58A/UuQlp6mjQNI/AAAAAAAAE7E/MxwTr63Hy9M/s200/WP_20130913_003%2B-%2BCopy%2B-%2BCopy%2B-%2BCopy.jpg) |
 
 Tell us who you are, why you did you decide to join?
 
@@ -29,5 +29,5 @@ List includes, Google, Facebook, Twitter, Fitbit, Payment Gateways, VoIP gateway
 Learning Power is very strong. So, Adpating to new APIs is just only a matter of few hours.
 For other skills, Checkout my oDesk profile via link above.
 
-I wasn't able to brainstorm on themes Yet but as soon as I have an Idea ready, I will update this section :)
+I will develop a project on first theme. Only, This theme is attracting my attention. Regarding the IDEA, I may try on future of dimishing resources that are available on earth.
 

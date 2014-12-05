@@ -22,6 +22,7 @@ the folder with your team name and inside this folder, create two files:
 * ABOUT.md (see [example file](https://github.com/koding/global.hackathon/blob/master/Teams/TeamKoders/ABOUT.md) for details)
 * once the above files are done, make a pull request to get your 
   information merged into the main repo
+* please use http://jsonlint.com/ to make sure the json file in your PR is valid (important!)
 * star this repo to show your appreciation (optional)
 
 We will periodically run a script that will pull your info and populate 
