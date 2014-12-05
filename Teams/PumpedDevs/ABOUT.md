@@ -15,29 +15,32 @@ After a while, I asked the other two members to join us in this hackathon, **Ken
 
 The team's **goal** for this competition is to *have fun* in the hackathon, *show what we can do* and *what we can contribute*. We think that this event is a **big help** for us to reach our goal which is to create our own **start up company** which can be beneficial for a lot of people. *Winning* in this competition might be **hard** and **intimidating**, but what isn't? We'll give it a shot and do our **best**!
 
-| Ron
-|----|
-| ![Ron](https://scontent-a-lax.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10151312_733270496694140_278196519_n.jpg?oh=912a25cc17ea7d0fa9b6db4c021ea92d&oe=54FC4938)
+Team Members
+========
 
 Ron
 =======
 A guy with big dreams. He loves to create different things and knows programming can take him there.
 
-| Kenneth
+| Ron
 |----|
-| ![Kenneth](https://scontent-a-lax.xx.fbcdn.net/hphotos-xaf1/t31.0-8/10834850_10202092548154885_1159607508883373889_o.jpg)
+| ![Ron](http://pumpeddevs.com/images/koding-ron.jpg)
 
 Kenneth
 ======
 Programming master/ninja. He loves js so much that he uses it for a living.
 
-| Joell
+| Kenneth
 |----|
-| ![Joell](https://scontent-b-lax.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/7289_4915922027645_673549750_n.jpg?oh=66523be2c87e3f2b32c2e2a9b001a254&oe=551831F8)
+| ![Kenneth](http://pumpeddevs.com/images/koding-kenneth.jpg)
 
 Joell
 ======
 He is a Mozilla Representative. He inspires others (mostly students) by giving talks to different mozilla events in the Philippines.
+
+| Joell
+|----|
+| ![Joell](http://pumpeddevs.com/images/koding-joell.jpg)
 
 Bryan
 ======
