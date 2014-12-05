@@ -1,7 +1,9 @@
-¯\_(ツ)_/¯ (The Team formerly known as Prince) 
+Prince  (The Team formerly known as ¯\_(ツ)_/¯) 
 ================
 
-This page is all about Team ¯\_(ツ)_/¯ (The Team formerly known as Prince) our team name is a symbol, kind of like Prince, only better. 
+(http://i.imgur.com/2XOdQCy.jpg)
+
+This page is all about Prince (The Team formerly known as ¯\_(ツ)_/¯) our team name is a symbol, kind of like Prince, only better. 
 
 
 Who is ¯\_(ツ)_/¯?
