@@ -5,7 +5,7 @@
       "name": "Samantha Christoff",
       "twitter": "FinalPhoenix",
       "koding": "FinalPhoenix",
-      "location": "Phoenix, US"
+      "location": "Phoenix, US",
       "lead": true
       },
     {
@@ -20,6 +20,7 @@
       "koding": "sloane@lucidagency.com",
       "location": "Phoenix, US"
     },
+    {
       "name": "Michael Scott",
       "koding": "Michael9378",
       "location": "Phoenix, US"
