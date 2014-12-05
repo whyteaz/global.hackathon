@@ -5,11 +5,6 @@ We're a team.  We do team things.
 About your team
 ===========================
 We're a cool team.
-Nate
-Jay
-Eric
-Chase
-
 
 About your skills and what you are going to do?
 =======
