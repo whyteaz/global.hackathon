@@ -1,7 +1,7 @@
 About Cu3mBY Team
 =================
 
-We are group of friends we love coding together, solve problems and have fun creating apps.
+We are a group of friends who love coding, solving problems, and having fun creating apps.
 
 #### Languajes
 - Javascript + NodeJS (steroids)
@@ -11,7 +11,7 @@ We are group of friends we love coding together, solve problems and have fun cre
 - Scala
 - iOS
 - Android
-- (and more even brainfuck)
+- (and more, even brainfuck)
 
 #### What we love:
 - RESTfuls APIS
