@@ -3408,7 +3408,7 @@ It will be Famo.us!
 About Cu3mBY Team
 =================
 
-We are group of friends we love coding together, solve problems and have fun creating apps.
+We are a group of friends who love coding, solving problems, and having fun creating apps.
 
 #### Languajes
 - Javascript + NodeJS (steroids)
@@ -3418,7 +3418,7 @@ We are group of friends we love coding together, solve problems and have fun cre
 - Scala
 - iOS
 - Android
-- (and more even brainfuck)
+- (and more, even brainfuck)
 
 #### What we love:
 - RESTfuls APIS
@@ -3430,14 +3430,15 @@ We are group of friends we love coding together, solve problems and have fun cre
 - Nice and clean code
 
 ##So let's introduce our Dream Team:
-|Cristina | Alex | Juan | Angel
-| ------- | ---- | ---- | -----
-|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/524896?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3292625?v=3&s=200' alt='GitHub Logo'/>| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/636987?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/6215607?v=3&s=200' alt='GitHub Logo'/>
+|Cristina | Alex | Juan | Angel | Adrian |
+| ------- | ---- | ---- | ----- | ------ |
+|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/524896?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3292625?v=3&s=200' alt='GitHub Logo'/>| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/636987?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/6215607?v=3&s=200' alt='GitHub Logo'/>| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/2242224?v=3&s=200' alt='GitHub Logo'/>
 
 - https://github.com/CristinaSolana
 - https://github.com/atasciuc
 - https://github.com/onel0p3z
 - https://github.com/angel-cuemby
+- https://github.com/aramonc
 
 
 ---------------------------------------
@@ -3857,6 +3858,25 @@ Our skills consists of but not limited to: NodeJS, ExpressJS, Socket.io, Angular
 
 ---------------------------------------
 
+# Team Dharma49
+
+One guy, surrounded by Texas.
+
+## About the Team
+
+-- Mark: Been writing games a long time. Love hackathons. Wish I was better at both.
+
+## Favorite Languages
+
+-- Javascript
+-- Objective C
+-- C++
+-- Java and C Sharp
+
+
+
+---------------------------------------
+
 Digital Research
 ================
 
@@ -4093,6 +4113,31 @@ We really like challenges and belive that join the first global virtual hackaton
 - Panda JS
 - EaselJS
 - Rails
+
+
+---------------------------------------
+
+My  name is reem iam studying master of cyber security in Tallinn universty of technolgy
+i love 
+C
+assembly 
+html
+pentesting
+php
+my name is Hatem Wasfy iam Linux System Administrator at Egypt - Japan University of Science and Technology ( E-JUST )
+shell scritping
+C
+Apache
+java 
+vpn
+
+Javascript
+java
+python
+php
+eclipse
+css
+mobile app
 
 
 ---------------------------------------
@@ -8634,6 +8679,29 @@ I'm not entirely sure what I'd like to tackle specifically.  Perhaps I'll gather
 
 ---------------------------------------
 
+#Razrs
+================
+
+We are #razrs. We shall put more here later.
+
+
+About your team
+===========================
+
+| amcorreia | perfectmak | walexi4great | saopayne | lolzballs | 
+
+We are razrs. We have people from North America, South America and Africa!
+
+More stuff happening here when stuff gets decided.
+
+About your skills and what you are going to do?
+=======
+We are #razrs and all we know is saopayne is working on the frontend and everyone else backend. Meetings will be held shortly to decide things. Going between PHP(CakePHP) or Node.JS for backend.
+
+
+
+---------------------------------------
+
 ReadLeD
 ================
 
@@ -8905,6 +8973,16 @@ I speak:
 
 ---------------------------------------
 
+#TeamName: SDK
+
+- We are 3 member team (Sudeesh signamalla/Devendra Kumar Dora M/ Kranthi kiran guduru ) pursuing computer science & engineering in National Institute of Technology Warangal ,India
+
+-We all three have experience in web and app development.
+
+- Theme not yet decided
+
+---------------------------------------
+
 SERPteam
 ===========================
 
@@ -9153,6 +9231,16 @@ Hi, we're Harrysuke and fr3ker from Malaysia.
 ##THEME
 We choose theme #1:
 Problems facing our planet, explained using interactive data visualization. (e.g. ISIS)
+
+
+---------------------------------------
+
+# SixDevelopment
+
+SixDevelopment is a team with [Sixten Revström](https://twitter.com/revstrom)
+
+## Contact us at
+- [@revstrom(https://twitter.com/revstrom) Sixten Revström
 
 
 ---------------------------------------
@@ -11028,6 +11116,21 @@ at Stony Brook University.
 
 ---------------------------------------
 
+# Team : SPOT Software
+
+We are a group of strongly motivated devs, based in Cesena, Italy.
+
+# About Our Skills and what we are going to do
+
+What about MEAN Stack with an addition of socket.io ? 
+And why not Rails or Django ?
+We would like to work on each theme, but something related to EULA & co. could be our choice.
+
+Stay tuned ;)
+
+
+---------------------------------------
+
 # /**
 # * TeamShellPhish *
 # */
@@ -12508,13 +12611,9 @@ I like Java, PHP and now my new favorites is AngularJS.
 
 ---------------------------------------
 
-# Team : X-Men
+# Heroic Welcome To The X-Men Team Page
 
-# About Us
-
-We are collegues based in Hyderabad , India , looking forward for improvising  a stellar application for the first ever virtual global hackathon .
-
-Our team members are highly proficient in an array of programming languages from traditional imperative languages to several web technologies and Api's.
+<img width="100" height="100" src='http://hd.wallpaperswide.com/thumbs/x_men_origins-t2.jpg' alt='<h1>Team X-Men : Beware The Mighty Mutants</h1>'/>
 
 
  
@@ -13912,6 +14011,11 @@ Member 1:
 
 ---------------------------------------
 
+I hate dead week.
+
+
+---------------------------------------
+
 
 #Idea for Hackaton
 
@@ -14022,6 +14126,34 @@ Itzteam members
 
 ===========================
 
+
+---------------------------------------
+
+Team: izwiz
+================
+
+My name is Nathanial Lattimer and I will represent team "izwiz" as its only member.
+
+About your team
+===========================
+
+| iismathwizard
+|--- 
+| <img width="100" height="100" src='https://www.iismathwizard.com/imgs/myself.jpg' alt='iismathwizard'/> | 
+
+I am a young developer who was inspired by a robotics team in his highschool to work in the software development field. So far, I've worked over 3 years in internships and 3 hackathons with success.
+
+I want to win this competition because I want to prove to myself that all my hard work of learning programming and development has paid off and that I can compete on a professional level. This field is hard and demanding and even though I may not have had the most technologically enriching environment growing up, my gusto and ingenuity will be my keys to victory.
+
+Plan
+=======
+I am not 100% sure what I want to do yet. I am still working on an idea but a couple of technologies that I have at my disposal include but are not limited to:
+
+* Android Development (Phone, tablet, and Glass)
+* Web Technologies (Php, HTML5, CSS3, Javascript/JQuery)
+* Face ++ (Facial Recognition API)
+* Facebook API
+* Arduino Development
 
 ---------------------------------------
 
@@ -14933,6 +15065,25 @@ My name is Elhoucine, very passionate about code.
 
 ---------------------------------------
 
+# Wannabes team
+
+We are a group of friends that are working together on side projects.
+
+**Hrvoje**:
+- SAP ABAP by day, iOS by night
+
+**Zdenko**:
+- PHP/Symphony day and night, more backend, some frontend
+
+**Davor**:
+- UX/UI
+
+**Dusko**:
+- SAP FICO by day, Android by night with some Python on Google App Engine backend stuff.
+
+
+---------------------------------------
+
 Wise Eddy
 ============================
 [WE](http://wiseeddy.com) develop interactive and highly visual software for education and science applications. 
@@ -15011,6 +15162,38 @@ He now works as an Objective-C developer at Memorado, making Brain Training game
 
 #### The Project
 We will be tackling the "Game to teach beginners how to code" category. If all goes well, we will continue the project after the Hackathon with the intent to make it an official [Hour of Code](http://hourofcode.com/) tutorial.
+
+---------------------------------------
+
+<img width="100" height="100" src='http://xdfty37dr3.bugs3.com/xdfty37dr3.png "xdfty37dr3 logo"' alt='xdfty37dr3'/>
+================
+
+Extreme Programming. Extreme Ideas. Extreme Solutions.
+=========
+
+| Me!
+|--- |--- |
+| <img width="100" height="100" src='http://scontent-a-mia.cdninstagram.com/hphotos-xpf1/t51.2885-15/10808495_1518714821731399_1381145832_a.jpg "Me!"' alt='wapaa'/>
+
+Just your everyday teenage software engineer. I've got big dreams, though, and I'm willing to do whatever it takes to make them come true.
+
+
+My Skills
+==========
+
+
+	- C#, C++, C
+	- Drawing, music (woohoo!)
+	- Self-taught programmer
+
+	- HTML, CSS, Javascript
+	- jQuery
+	- Laravel
+	- ASP.NET, PHP
+	- Fun!
+
+
+
 
 ---------------------------------------
 
