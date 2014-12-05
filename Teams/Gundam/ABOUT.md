@@ -8,15 +8,15 @@ Hello, we are a team mostly from Japan (Tokyo). Our team name is called Gundam b
 
 Although there is an explosion in the popularity of computer science in the United States and such, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan. We want to change this mindset. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
 
-Fanさん以外、私たちは日本にいても、Fanさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
+私たちは日本にいても、Tommyさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
 
 
 About Our Team
 ===========================
 
-| Jumpei | Takuya | Cherry | Tommy
+| Jumpei | Takuya | Cherry | Tommy | Nam
 |--- |--- |--- |--- |---
-| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Takuya](https://pbs.twimg.com/profile_images/591981691/icon.png) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![Tommy](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg) |
+| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Takuya](https://pbs.twimg.com/profile_images/591981691/icon.png) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![Tommy](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg) | ![Nam](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10850519_10205530840778377_121262478_n.jpg?oh=70740ef04dea9b700bbacb35a17ccb4a&oe=5484D376&__gda__=1417991399_4cead31002ddb05da9eb44f98ed7ce35)
 
 
 Jumpei
@@ -25,7 +25,7 @@ Jumpei Yamane is an accomplished and experienced manager of various hackathons i
 
 Takuya
 =======
-Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He also knows some iOS and Android. He is very experienced. [Website](https://www.facebook.com/takuya.miyamoto.9083)
+Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
 
 Cherry
 =======
@@ -33,4 +33,8 @@ Cherry is an engineering student at the University of Waterloo, and has a lot of
 
 Tommy
 =======
-Tommy just recently started app development and web development, and he has fallen in love with it. He is an engineer at the University of Waterloo, and has learned a lot of languages very quickly, including python, iOS development, html, css, and JavaScript. [Facebook](https://www.facebook.com/tommyjungis)
+Tommy just recently started app development and web development, and he has fallen in love with it. He used to be a mechatronics engineer at the University of Waterloo, but recently switched to computer engineering so that he can get both a hardware, but more software engineering experience (he loves coding). He has definitely learned a lot of languages very quickly in frosh year, including python, iOS development, html, css, and JavaScript. [Facebook](https://www.facebook.com/tommyjungis)
+
+Nam
+=======
+Nam is the most recent member of our team, and has years of experience in Android and Java development, and came to Japan and is permanently working here developing Android applications. He frequently goes to the Tokyo Android Group, and is an avid fan of the mobile OS. He also has some web development experience as well, and can't wait to try and learn more about web development in this hackathon. [Facebook](https://www.facebook.com/butchigo)
