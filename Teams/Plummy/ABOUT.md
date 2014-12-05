@@ -6,12 +6,12 @@ That's not it, well yeah, we are team in both real world and this koding event. 
 We always work remotely and this event is our chance to do some work together and train our work team (and conquer the world).
 This is our double live. To live as a coder, die as a legend.
 
-About Our Team
+Sounds Plummy :)
 ===========================
 
 | bagus | rizky | bayu | adit
-|--- |--- |--- 
-| ![Bagus](http://plummy.web.id/images/maja.png) | ![Rizky](http://plummy.web.id/images/rizky.png) | ![Bayu](http://plummy.web.id/images/bayu.png) | ![adit](https://www.facebook.com/photo.php?fbid=10205430099341015&set=a.2936968232368.2151522.1505994630&type=1&theater) 
+|--- |--- |--- |---
+| ![Bagus](http://plummy.web.id/images/maja.png) | ![Rizky](http://plummy.web.id/images/rizky.png) | ![Bayu](http://plummy.web.id/images/bayu.png) | ![adit](https://scontent-b-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1394339_10202827212630474_118324602_n.jpg?oh=c9ba1d8198384bd65a269b16be7718ef&oe=5518642A) 
 
 Bagus
 ----------
