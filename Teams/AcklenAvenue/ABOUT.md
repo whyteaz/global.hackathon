@@ -21,8 +21,7 @@ frontend and backend development of a software.
 Why we decide to join?
 ===========================
 
-We love Hackathons and we love coding. 
-More coming soon..
+We love Hackathons because it challenges us to build a solution to a specific problem in a very short period of time and because we would like to be part of the first virtual Hackathon.
 
 Our skill
 ===========================
