@@ -15,6 +15,11 @@ After a while, I asked the other two members to join us in this hackathon, **Ken
 
 The team's **goal** for this competition is to *have fun* in the hackathon, *show what we can do* and *what we can contribute*. We think that this event is a **big help** for us to reach our goal which is to create our own **start up company** which can be beneficial for a lot of people. *Winning* in this competition might be **hard** and **intimidating**, but what isn't? We'll give it a shot and do our **best**!
 
+| Ron
+|----
+| ![Ron](https://scontent-a-lax.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10151312_733270496694140_278196519_n.jpg?oh=912a25cc17ea7d0fa9b6db4c021ea92d&oe=54FC4938)
+
+
 About our skills and plans?
 =======
 All of us use the following technologies:
