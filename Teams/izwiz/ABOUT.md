@@ -17,4 +17,4 @@ I want to win this competition because I want to prove to myself that all my har
 My Project - Babylon
 ===========================
 
-This project is going to be a step up from the Star Trek Universal Translator. (For Android Phone)
+This project is going to be a step up from the Star Trek Universal Translator.
