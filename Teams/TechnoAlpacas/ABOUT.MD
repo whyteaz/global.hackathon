@@ -11,5 +11,5 @@ We program, with a humm!
 ------------------------------------------------
 ####Javascript
 ####Python
-####C#
+####C(sharp)
 ####MOAR JAVASCRIPT!
