@@ -5,7 +5,11 @@ __Why do we want to join the competition?__
 - To have fun, gain experience, meet new people and form a great team.
 
 Our Team
-========
+--------
+
+| Gabriel | Kleber | Rajesh | Venkateswaran |
+|---------|--------|--------|---------------|
+| [![Gabriel](https://avatars0.githubusercontent.com/u/432849?v=3&s=150)](https://github.com/gdumitrescu) | [![Kleber](https://avatars3.githubusercontent.com/u/245691?v=3&s=150)](https://github.com/klebervirgilio) | [![Rajesh](https://avatars0.githubusercontent.com/u/1542998?v=3&s=150)](https://github.com/Rajesh-Veeranki) | [![Venkateswaran](https://avatars2.githubusercontent.com/u/9083583?v=3&s=150)](https://github.com/mailmevenkat) |
 
 #### Name: Gabriel Dumitrescu
 - Reason to participate: Prove that a distributed team can be as productive as a team working in the same room
