@@ -27,7 +27,7 @@
 + Weight: 180 lbs
 + Eye Color: brown
 + Hair Color: brown
-+ Fighting Stype: [Arthur Ryu]
++ Fighting Style: [Arthur Ryu]
 + Likes: Javascript, Objective C, Dogs, Cookies, Judge Dredd
 + Dislikes: Brussel Sprouts, Star Trek: Into Darkness (don't mess with "Wrath of Khan")
 
