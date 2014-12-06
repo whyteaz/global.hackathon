@@ -20,4 +20,5 @@ Passionate full stack developer, recently inlove with the MEAN stack. Creator of
 # Cristian La Spina
 
 ![Viejo](https://imagizer.imageshack.us/v2/800x320q90/673/BiKy62.jpg)
-Good friend always willing to help, also known as "viejo" [follow him on github](https://github.com/viehot/).
+
+Good old friend always willing to help, also known as "viejo" [follow him on github](https://github.com/viehot/).
