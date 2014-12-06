@@ -1,3 +1,8 @@
 # team appleskin
+We are the tops man
 
-It's just little 'ole meh.  I prefer to do everything in javascript.
+## Hunter
+likes teh javascript
+
+## Matt
+also likes teh javascript
