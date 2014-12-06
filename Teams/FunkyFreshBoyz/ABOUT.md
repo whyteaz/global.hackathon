@@ -5,20 +5,28 @@ Funky Fresh Boyz
 
 Directly from Rosario (Argentina), we're the Funky Fresh Boyz!
 
-| N     | Member            | Role          | Twitter                                               | Editor   |
-| :---- | :----             | :----:        | :----                                                 | :----    |
-| 1     | Cristian Cortez   | Dev/Architect | [@cortezcristian](https://twitter.com/cortezcristian) | Vim      |
-| 2     | Cristian La Spina | Unknown       | none                                                  | Brackets |
+| N     | Member            | Role            | Twitter                                               | Editor   |
+| :---- | :----             | :----:          | :----                                                 | :----    |
+| 1     | Cristian Cortez   | Ninja Team Lead | [@cortezcristian](https://twitter.com/cortezcristian) | Vim      |
+| 2     | Cristian La Spina | Trooper         | none                                                  | Brackets |
+| 3     | Lucas van Dongen  | iOS guy         | [@lucasvandongen](https://twitter.com/lucasvandongen) | Xcode    |
 
 
 # Cristian Cortéz
 
 ![Crisboot](http://cortezcristian.com/images/fpo-carousel-imge-4.jpg)
 
-Passionate full stack developer, recently inlove with the MEAN stack. Creator of [anyandgo MEAN framework](https://github.com/cortezcristian/anyandgo). Visit his [website](http://cortezcristian.com/) or [follow him on twitter](https://twitter.com/cortezcristian).
+Passionate full stack developer, felt in love recently with the MEAN stack. Creator of [anyandgo MEAN framework](https://github.com/cortezcristian/anyandgo). Visit his [website](http://cortezcristian.com/) or [follow him on twitter](https://twitter.com/cortezcristian).
 
 # Cristian La Spina
 
 ![Viejo](https://imagizer.imageshack.us/v2/800x320q90/673/BiKy62.jpg)
 
 Good old friend always willing to help, also known as "viejo" [follow him on github](https://github.com/viehot/).
+
+
+# Lucas van Dongen
+
+![Holandes](http://imagizer.imageshack.us/a/img633/6561/a6ZquR.png)
+
+Professional Xcode Wrestler. Sucks at speaking at least five languages. Receives flak for liking Microsoft.
