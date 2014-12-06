@@ -12,6 +12,6 @@ I'm software engineer from Kharkiv, Ukraine. Decision to participate in Koding H
 About your skills and what you are going to do?
 ===========================
 
-At the moment I'm not totally sure about theme of my project, but most likely it would be something that is related with realtime data streaming.
+I will do a project which help to increase a number of users who read the legal documents on the web.
 
 Planning to use Node.js as a main platform.
