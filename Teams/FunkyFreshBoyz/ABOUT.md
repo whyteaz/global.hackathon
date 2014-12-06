@@ -16,7 +16,7 @@ Directly from Rosario (Argentina), we're the Funky Fresh Boyz!
 
 ![Crisboot](http://cortezcristian.com/images/fpo-carousel-imge-4.jpg)
 
-Passionate full stack developer, felt in love recently with the MEAN stack. Creator of [anyandgo MEAN framework](https://github.com/cortezcristian/anyandgo). Visit his [website](http://cortezcristian.com/) or [follow him on twitter](https://twitter.com/cortezcristian).
+Passionate full stack developer, fell in love recently with the MEAN stack. Creator of [anyandgo MEAN framework](https://github.com/cortezcristian/anyandgo). Visit his [website](http://cortezcristian.com/) or [follow him on twitter](https://twitter.com/cortezcristian).
 
 # Cristian La Spina
 
