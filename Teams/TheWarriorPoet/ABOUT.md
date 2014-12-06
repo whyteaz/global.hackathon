@@ -10,6 +10,6 @@ In the past few months, I have pulled back from my business in order to focus on
 
 About your skills and what you are going to do?
 =======
-Seeing the invitation to the Global Hackathon, I made the decision to join for the purpose of testing and expanding my game development skills. Working alone, I'll be setting out to tackle the theme of using a game to teach software development to a beginning.
+Seeing the invitation to the Global Hackathon, I made the decision to join for the purpose of testing and expanding my game development skills. Working alone, I'll be setting out to tackle the theme of using a game to teach software development to a beginner.
 
 I'll be exploring using the Unity3D Game Engine, with it's Unity Web Player to host it on the Koding VM. 
