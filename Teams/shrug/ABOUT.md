@@ -1,7 +1,7 @@
-Team ¯\_(ツ)_/¯
+Team ¯\\_(ツ)_/¯
 ===============
 
-This is Team I-Didn't-Have-A-Better-Name-For-It or Team ¯\_(ツ)_/¯ for short.
+This is Team I-Didn't-Have-A-Better-Name-For-It or Team ¯\\_(ツ)_/¯ for short.
 
 I like web technologies, specifically building on top of already powerful services and extending them. For example, taking the WUndgeround weather API and using sunset time to turn the lights in my house on. Or by combining Rotten Tomatoes and Redbox to find critically acclaimed movies that I can immediately pick up (that is if I can be bothered to put on pants).
 
@@ -23,4 +23,4 @@ Like I said, I really like web technologies so I'll be developing in PHP5 with s
 
 Right now, I'm thinking of visualizing or re-thinking how people look at some government data. Which agency's? And in what ways?
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
