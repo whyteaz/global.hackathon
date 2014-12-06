@@ -974,6 +974,22 @@ Feel free to send me an email (`public [AT] missaglialfio [DOT] pw`) if you're i
 
 ---------------------------------------
 
+This is our page
+================
+We're a team.  We do team things.
+
+About your team
+===========================
+We're a cool team.
+
+About your skills and what you are going to do?
+=======
+We be droppin' some algos and rhythms up in here.
+
+
+
+---------------------------------------
+
 Francis
 --------------
 I'm a senior Computer Science Student at Stony Brook University
@@ -1049,6 +1065,24 @@ Welcome To AmbesaEri's Page
 I am Alem Sisay, a Java programmer. I am here to code, learn, grow, have much fun, and win.
 
 Good Luck!
+
+
+---------------------------------------
+
+Amethyst
+====
+
+Currently, I'm a student of Electrical Engineering, who's interested in computer programming. I've participated in a number of programming contests before, and 3 or 4 hackathons. In a hackathon held in our school, our team even scored the first. I have almost no experience doing serious web design, but I've spent enough time messing up with sources and APIs I think I *can* do something. 
+
+Talking about the hackathon, living in Iran *and* Tehran, I can't be indifferent about environmental issues. A number of major Iranian lakes and rivers are drying, which result in many problems, including but not limited to damages to agriculture, damages to animal and plant life, decrease in already-rare water resources, dust rising from those dried lakes, which is already becoming a problem, and... To make it all worse, Tehran is already running out of water resources, which means that the tap water might become unsafe to drink. 
+
+Concidering all these, I decided to do a project which would help solve (or reduce the magnitude of) these problems. I'll also learn to work with github, learn more web design, and have a good time participating in a hackathon at 3 AM :)
+
+Here I am: 
+
+| M2Moradi (MMS)
+|---
+| <img width="100" height="100" src='http://codeforces.com/userphoto/title/MMS/photo.jpg' alt='M2Moradi'/>
 
 
 ---------------------------------------
@@ -1290,6 +1324,22 @@ GLOBAL HACKATHON
 -----
  We are eagarly waiting for the hackothon day. I believe it would be really fun and enjoyable day. 
  
+
+
+---------------------------------------
+
+# Armenia Here
+
+I am Hayk, and i want to present my small country here.
+
+As i have no team members (they are all busy !!! in their projects), I'm an only representative of team :)
+
+## So languages i enjoy
+- PHP
+- Javascript
+- MySQL
+- ActionScript
+- others ...
 
 
 ---------------------------------------
@@ -4797,13 +4847,35 @@ We love what we do so work is play.
 Funky Fresh Boyz
 ====================
 
-| N     | Member          | Role          | Twitter                                               | Editor |
-| :---- | :----           | :----:        | :----                                                 | :----  |
-| 1     | Cristian Cortez | Dev/Architect | [@cortezcristian](https://twitter.com/cortezcristian) | Vim    |
+<img width="100" height="100" src='http://moviesmedia.ign.com/movies/image/article/784/784153/kios-jamie1_1177708841.jpg' alt='FFB'/>
 
-More info coming soon...
+Directly from Rosario (Argentina), we're the Funky Fresh Boyz!
+
+| N     | Member            | Role            | Twitter                                               | Editor   |
+| :---- | :----             | :----:          | :----                                                 | :----    |
+| 1     | Cristian Cortez   | Ninja Team Lead | [@cortezcristian](https://twitter.com/cortezcristian) | Vim      |
+| 2     | Cristian La Spina | Trooper         | none                                                  | Brackets |
+| 3     | Lucas van Dongen  | iOS guy         | [@lucasvandongen](https://twitter.com/lucasvandongen) | Xcode    |
+
+
+# Cristian Cortéz
 
 <img width="100" height="100" src='http://cortezcristian.com/images/fpo-carousel-imge-4.jpg' alt='Crisboot'/>
+
+Passionate full stack developer, fell in love recently with the MEAN stack. Creator of [anyandgo MEAN framework](https://github.com/cortezcristian/anyandgo). Visit his [website](http://cortezcristian.com/) or [follow him on twitter](https://twitter.com/cortezcristian).
+
+# Cristian La Spina
+
+<img width="100" height="100" src='https://imagizer.imageshack.us/v2/800x320q90/673/BiKy62.jpg' alt='Viejo'/>
+
+Good old friend always willing to help, also known as "viejo" [follow him on github](https://github.com/viehot/).
+
+
+# Lucas van Dongen
+
+<img width="100" height="100" src='http://imagizer.imageshack.us/a/img633/6561/a6ZquR.png' alt='Holandes'/>
+
+Professional Xcode Wrestler. Sucks at speaking at least five languages. Receives flak for liking Microsoft.
 
 
 ---------------------------------------
@@ -12774,15 +12846,33 @@ TODO
 
 About
 ================
+We are a small team based in Montreal, Canada. Our aim is to establish a  successful startup after verifying from some potential ideas that we have. We believe , this hackathon will help a lot in our way to success.
 
 About UpStageCoder Team
 ===========================
-| rana | nila
-|--- |---
-| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/368209?v=3&s=200' alt='rana'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/1213589?v=3&s=200' alt='nila'/>
-| [Blog](http://codesamplez.com)||
 
-More details coming soon!
+Rana
+================
+<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/368209?v=3&s=200' alt='rana'/> 
+
+I am a professional and experienced software engineer with passion in programming and solve challenging problems. I currently working with latest open source web technologies like nodjs, couchdb, redis, gearman for developing distributed scalable RESTful API based web application. I also have experience in wide range or skills area(please check my likes list of technologies)
+
+I respect and believe in agile, scrum, refactoring, unit testing, have good eye on software architecture, code quality, maintenance effort etc. I also often test drive some small ideas that come to mind.
+
+I also have a programming blog site where I regularly write articles about programming, software developments, server management/deployment etc related tutorials regularly in my free time to share my knowledge with the developers community around the world. 
+
+[My Programming Blog](http://codesamplez.com)
+
+[My LinkedIn Profile](http://ca.linkedin.com/in/ranacseruet/)
+
+Nila
+================
+<img width="100" height="100" src='https://avatars2.githubusercontent.com/u/1213589?v=3&s=200' alt='nila'/>
+
+I am web developer and currently working as Front End Developer at Vister Technology Inc. in Montreal, Canada. Programming is my passion and I love to work with web programming. When a new technology comes, I always try to learn it. I love to learn in every single corner on a technology. It feels amazing to me whenever I succeed solving/implementing a web development problem. We are a small team now, but I learn a lot of thing from my coworkers. 
+
+[My LinkedIn Profile](http://ca.linkedin.com/pub/mahfuja-nilufar/53/779/992)
+
 
 ---------------------------------------
 
@@ -13528,8 +13618,13 @@ About Varun kumar
 ---------------------------------------
 
 # team appleskin
+We are the tops man
 
-It's just little 'ole meh.  I prefer to do everything in javascript.
+## Hunter
+likes teh javascript
+
+## Matt
+also likes teh javascript
 
 
 ---------------------------------------
@@ -15611,10 +15706,10 @@ Languages:
 
 ---------------------------------------
 
-Team ¯\_(ツ)_/¯
+Team ¯\\_(ツ)_/¯
 ===============
 
-This is Team I-Didn't-Have-A-Better-Name-For-It or Team ¯\_(ツ)_/¯ for short.
+This is Team I-Didn't-Have-A-Better-Name-For-It or Team ¯\\_(ツ)_/¯ for short.
 
 I like web technologies, specifically building on top of already powerful services and extending them. For example, taking the WUndgeround weather API and using sunset time to turn the lights in my house on. Or by combining Rotten Tomatoes and Redbox to find critically acclaimed movies that I can immediately pick up (that is if I can be bothered to put on pants).
 
@@ -15636,7 +15731,8 @@ Like I said, I really like web technologies so I'll be developing in PHP5 with s
 
 Right now, I'm thinking of visualizing or re-thinking how people look at some government data. Which agency's? And in what ways?
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
+
 
 ---------------------------------------
 
@@ -15692,7 +15788,11 @@ Python, C, C#, Java
 
 ---------------------------------------
 
-I'm 48 years old and I'm still koding.
+I'm 48 years old and I'm *still* koding. Seriously, coding has been a life-saver for me. I grew up raised by a single immigrant mom on welfare and it's because of coding that I managed to build a career that I love. I hope that in 20 years when I'm 68, I'll still be able to say *PROUDLY* "I'm koding!" (and doing my 20th **Koding** global hackathon :)
+
+William
+
+<img width="100" height="100" src='https://secure.gravatar.com/avatar/0b47bb2a6ab06101744a5c62477a4e15?s=90&s=350' alt='the 48 year old programmer'/>
 
 
 ---------------------------------------
