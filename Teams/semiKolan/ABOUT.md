@@ -27,9 +27,5 @@ Tell us why you want to win.
 
 What we plan to do... 
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
-
-You can change your mind, that's ok. Just push an update here when you do.
+We plan to create an interactive HTML5 game to help novice programmers and non-pogrammers quickly master the basics of HTML, CSS and JAVASCRIPT. The site will use Facebook graph API and some other APIs as well. 
 
