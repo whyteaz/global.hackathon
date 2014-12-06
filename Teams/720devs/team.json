@@ -1,0 +1,19 @@
+{
+  "teamName" : "720devs",
+  "members"  : 
+  [
+	    {
+	      "name"	 : "Mariana Stariolo",
+	      "twitter"	 : "720desarrollos",
+	      "koding"	 : "marianastariolo",
+	      "location" : "Villa Carlos Paz, AR"
+	    },
+	    {
+	      "name"	 : "Franco Risso",
+	      "twitter"	 : "francorisso",
+	      "koding"	 : "francorisso",
+	      "location" : "Villa Carlos Paz, AR",
+	      "lead"	 : true
+	    }
+	]
+}

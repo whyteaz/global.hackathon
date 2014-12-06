@@ -17,7 +17,7 @@ Our name, 'J-Unit', comes from our mutual love of hip hop and unit testing,
 mixed with the fact that we use Java as our main programming language, for both client and server side.
 
 Our biggest motivation for participating in this hackathon, is so we can have a shot at an interview
-with some of the awesome VCs which are on the judges' panel. Our dream is to do a startup,
+with some of the awesome VCs who are on the judges' panel. Our dream is to do a startup,
 and we have an awesome idea that we'd love to pitch.
 
 

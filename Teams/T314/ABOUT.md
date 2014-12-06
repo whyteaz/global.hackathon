@@ -1,23 +1,11 @@
-This is our page
+T314
 ================
 
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
+I'm a freelance developer, interested in Web development
+Hackathon – a good incentive to apply my knowledge of different areas in a single project
 
+My goal is not to win, it's a challenge for me – in a short period of time to create a project that will be useful for many people
 
-About your team
-===========================
-Tell us who you are, why you did you decide to join?
+the most interesting theme for me is "HTML5 educational multiplayer game"
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
-
-
-About your skills and what you are going to do?
-=======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
-
-You can change your mind, that's ok. Just push an update here when you do.
-
+I will use PHP + node.js + iron.io and WebGL + Canvas... may also WebSpeechAPI

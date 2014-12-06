@@ -1,0 +1,25 @@
+{
+  "teamName": "254Coders",
+  "members": [
+    {
+      "name": "Julius Njuguna",
+      "twitter": "jnmwangi",
+      "koding": "njmwas",
+      "location": "Nairobi, KE",
+      "lead": true
+    },
+    {
+      "name": "Salama AB",
+      "twitter": "aksalj",
+      "koding": "aksalj",
+      "location": "Nairobi, KE"
+    },
+    {
+      "name": "Kubai Kevin",
+      "twitter": "kubaikevin",
+      "koding": "kubai",
+      "location": "Nairobi, KE"
+    }
+
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "teamName": ".jar",
+  "members": [
+    {
+      "name": "Joseph Song",
+      "twitter": "ijoosong",
+      "koding": "ijoosong",
+      "location": "Philadelphia, PA",
+      "lead": true
+    },
+    {
+      "name": "Alexander Ngai",
+      "twitter": "alexsngai",
+      "koding": "alexngai",
+      "location": "Irvine, CA"
+    },
+    {
+      "name": "Randy Song",
+      "twitter": "cabooserwar",
+      "koding": "sshrandy",
+      "location": "Woburn, MA"
+    }
+
+  ]
+}
