@@ -912,6 +912,26 @@ My Name Is Alladin El Akhrass  an enthusiastic and self-motivated front end web 
 
 ---------------------------------------
 
+Welcome to the Team Aleph-Null Page of AWESOME
+===========================================
+
+
+About The Team
+==============
+
+| Amaan 
+|--- 
+| <img width="100" height="100" src='https://lh5.googleusercontent.com/-qKJYyghTHxs/VGj5lqMcJ8I/AAAAAAAAFBw/LPTq_I5s4BY/s356-no/androidify.gif' alt='Amaan'/>
+
+Amaan
+=====
+I have been coding for a few years now and have had some experiences with Java, Python, HTML, CSS, & Javascript.
+I thought I would have a larger team and lots of kids at my high school were interested but I couldn't find anyone to commit lol
+But here I am trying to do my best and who knows? Maybe something will click
+
+
+---------------------------------------
+
 ```
              _    __   _             __  __   _                               _   _         
      /\     | |  / _| (_)           |  \/  | (_)                             | | (_)        
@@ -3297,23 +3317,34 @@ My project is an HTML5 games that are educational and learning oriented. (multip
 
 Copihue
 ================
-We are a Chilean Team composed by 3 developers. "Copihue", known as Chilean bellflower is the
+We are a Chilean Team composed by 2 developers. "Copihue", known as "*Chilean bellflower*" is the
 national flower of Chile and a real symbol of passion.
 
 About Copihue
 ================
 
-| Shelo | Tilder | Autopawn |
-|--- |--- |--- |---
-| No Pictures avaiable at the moment. |
+| Shelo | Tilder |
+|--- |--- |
+| <img width="100" height="100" src='http://104.131.173.250/media/img/shelo.jpg' alt='shelo normal'/> | <img width="100" height="100" src='http://104.131.173.250/media/img/rcastill.jpg' alt='tilder normal'/>  |
+| <img width="100" height="100" src='http://104.131.173.250/media/img/shelo2.png' alt='shelo on fire'/> | <img width="100" height="100" src='http://104.131.173.250/media/img/fun.jpg' alt='tilder on fire'/> |
 
-We decided to join because of our passion of large continous hours of pure programming, so you know, this is just perfect.
+We decided to join because of our joy for large continous hours of pure programming, so you know, this is just perfect.
 
 About your skills and what you are going to do?
 =======
-We are fans of games, so thats where we will be going, of course, using one of the themes presented.
+**Shelo**
 
-The game will be connected with facebook and (probably) will use Google Game Services.
+Real name: Marcelo Jara Almeyda
+
+Skills: C#, Java, HTML5, JS, jQuery and Python principally
+
+**Tilder**
+
+Real name: Rodolfo Castillo Mateluna
+
+Skills: C, C++, Java, Python, Network programming.
+___
+We are fan of games, so that's what we're doing, of course, using one of the themes presented.
 
 
 ---------------------------------------
@@ -3341,23 +3372,24 @@ My name is Vedran, I have a lot of ideas and I want to make some of them happen.
 
 ## About me
 
-I'm a front-end developer who is excited about the endless potential of the web, and being able to build things that a lot of people can use every day. I'm passionate about my craft, I have a good eye for details and an absolute commitment to making sure features are well implemented. I always write maintainable front-end markup. I love responsive web design and mobile-first perspective. 
+I'm a front-end developer who is excited about the endless potential of the web, and being able to build things that a lot of people can use every day. I'm passionate about my craft. 
 
-I can transform designs and concepts into efficient and lively interactive user experiences that are quick and responsive.
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/516293918623690752/4GeUU8Fw.jpeg' alt='Vedran'/>
 
-My second passion is crafting user interfaces with a seamless user experience in mind. Creating prototypes and wireframes is my joy. 
+I added my picture because I have cool glasses. B-)
 
-I have working knowledge on the application level programming with Ruby on Rails. I will be using RoR for making my idea happen.
+## My Passion 
 
-### What I know
+One thing that I'm most passionate about is changing the way we provide education today.
+I'm currently making two projects that are related to changing the education. 
+And I hope that on this hackathon I will make the third one.
 
-Modern HTML, JavaScript and CSS
-JavaScript MVC framework AngularJS
-Third party CSS and Javascript libraries and frameworks
-Application level programming with Ruby on Rails
-Social web services and APIs (Facebook, Twitter, etc)
-Working with version control (GIT)
+### My Toolbox
 
+On this hackathon I will be using HTML/CSS/SASS + MEAN stack (mongo, express, angular, node)...
+I will try to integrate my app with some API and social sites. 
+Technology today provides as with cool real time based communication so my solution for this hackathon will 
+be solution will be in realtime between users. hint -> Socket.IO
 
 ---------------------------------------
 
@@ -8752,6 +8784,37 @@ After a while, I asked the other two members to join us in this hackathon, **Ken
 
 The team's **goal** for this competition is to *have fun* in the hackathon, *show what we can do* and *what we can contribute*. We think that this event is a **big help** for us to reach our goal which is to create our own **start up company** which can be beneficial for a lot of people. *Winning* in this competition might be **hard** and **intimidating**, but what isn't? We'll give it a shot and do our **best**!
 
+Team Members
+========
+
+Ron
+=======
+A guy with big dreams. He loves to create different things and knows programming can take him there.
+
+| Ron
+|----|
+| <img width="100" height="100" src='http://pumpeddevs.com/images/koding-ron.jpg' alt='Ron'/>
+
+Kenneth
+======
+Programming master/ninja. He loves js so much that he uses it for a living.
+
+| Kenneth
+|----|
+| <img width="100" height="100" src='http://pumpeddevs.com/images/koding-kenneth.jpg' alt='Kenneth'/>
+
+Joell
+======
+He is a Mozilla Representative. He inspires others (mostly students) by giving talks to different mozilla events in the Philippines.
+
+| Joell
+|----|
+| <img width="100" height="100" src='http://pumpeddevs.com/images/koding-joell.jpg' alt='Joell'/>
+
+Bryan
+======
+He loves programming.
+
 About our skills and plans?
 =======
 All of us use the following technologies:
@@ -12136,20 +12199,19 @@ We aren't sure what our project is going to be yet, but we'll push an update as 
 
 About The Warrior Poet
 ===========================
-Tell us who you are, why you did you decide to join?
+My name is Andrew, aged 29 from Wollongong, NSW, Australia.
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+My journey into game development has been a long one, starting in my young teens with a desire to get into Game Programming. Despite this strong desire, several life choices took me on different paths, including buying my own printing business and running that for over seven years. 
 
+Despite that path, my desire to get into game development remained strong. I started attending university to do a Bachelor of IT/Science double degree, with a software development and mathematics focus. This has eventually led to the desire to specialise in game programming.
+
+In the past few months, I have pulled back from my business in order to focus on game programming and development. Enrolling in an Advanced Diploma, this stage of my life is all about game programming and game development.
 
 About your skills and what you are going to do?
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+Seeing the invitation to the Global Hackathon, I made the decision to join for the purpose of testing and expanding my game development skills. Working alone, I'll be setting out to tackle the theme of using a game to teach software development to a beginner.
 
-You can change your mind, that's ok. Just push an update here when you do.
-
+I'll be exploring using the Unity3D Game Engine, with it's Unity Web Player to host it on the Koding VM. 
 
 
 ---------------------------------------
@@ -13300,16 +13362,23 @@ I would like to address the need for a better way to deliver legal documents (EU
 This is our page
 ================
 
-We are the YopZ team
+Best friends always make the best plans ... and the best code ;)
 
+<img width="100" height="100" src='https://scontent-b-mad.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1888611_364477923726438_9087867357789785653_n.png?oh=61d952feb9ffad60635136dd3ffbc8b8&oe=55095F43' alt='best friends'/>
 
 About your team
 ===========================
+| Ayoub | Zineb
+|--- |--- 
+| <img width="100" height="100" src='https://raw.githubusercontent.com/zanoubia/global.hackathon/master/Teams/YopZ/img/samtheeagle.png' alt='Ayoub'/> |<img width="100" height="100" src='https://raw.githubusercontent.com/zanoubia/global.hackathon/master/Teams/YopZ/img/me.png' alt='Zineb'/>
+| https://github.com/BigYopy| https://github.com/zanoubia
+
+We are Networking and System engineers who are interested in cloud computing. Thus, we discovered Koding and we liked the idea of the Global Hackathon.
 
 
 About your skills and what you are going to do?
 =======
-Python, Ruby
+Python, Ruby, phaser, shell scripting, linux administration, nginx, puppet
 
 
 
