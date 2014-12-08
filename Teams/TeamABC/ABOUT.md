@@ -21,7 +21,7 @@ Enjoy!!!<br>
 
 Skills
 =======
-Critical Thinking, CrEaTiViTy, bREaktHROUgh, dIsrUpt, hAck<br>
+Critical Thinking, CrEaTiViTy, bREaktHROUgh, dIsrUpt, hAck, snAck tErminat0r<br>
 
 Project
 =======
