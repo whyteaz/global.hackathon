@@ -14,6 +14,7 @@ We love programming.
 We love to solve problem.
 We love challenge.
 We love exposure.
+We don't sleep.
 We are OPEN :) (also for hug, etc :p)
 Enjoy!!!
 
