@@ -27,6 +27,6 @@ Update
 ======
 Day 1 - Virtual discussion and ideation using online tool.<br><br>
 Day 2 - Code d out of our heart with some snacks! No pizza >.< <br>
-<img width="500" height="371" src='https://scontent-a-kul.xx.fbcdn.net/hphotos-xpa1/t31.0-8/10828108_10152424824026954_8965702877847762495_o.jpg' alt='2nd Day Update - Code out of our heart'/>
+<img width="600" height="445" src='https://scontent-a-kul.xx.fbcdn.net/hphotos-xpa1/t31.0-8/10828108_10152424824026954_8965702877847762495_o.jpg' alt='2nd Day Update - Code out of our heart'/>
 <br>
 
