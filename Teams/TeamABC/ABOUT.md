@@ -10,7 +10,7 @@ About your team
 |--- |--- |--- 
 | ![alvin](https://farm8.staticflickr.com/7505/15333562263_a7d5dfb1da_n.jpg) | ![yang](https://farm8.staticflickr.com/7489/15953185125_cf8afbba46_n.jpg) | ![tien](https://farm8.staticflickr.com/7473/15767155129_db1bba3e10_n.jpg) | 
 Very bright Master student in Computer Science with exceptional high learning ability  | Althought is the youngest among all but he is our grandmaster of coding sifu | Hackathon lover. This is his 9th hackathon in the past 8 months |
-| <strong>Coder Cat</strong> 
+| <strong>Hello "World" Kitty</strong> 
 | ![cat](http://images-cdn.9gag.com/images/thumbnail-facebook/8820525_1384335071.2674_luqy7e_n.jpg)
 | When he don't sleep on the keyboard, he can do decent coding. |
 
