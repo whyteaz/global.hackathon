@@ -21,7 +21,7 @@ Enjoy!!!<br>
 
 Skills
 =======
-Critical Thinking, CrEaTiViTy, bREaktHROUgh
+Critical Thinking, CrEaTiViTy, bREaktHROUgh, dIsrUpt, hAck
 
 Update
 ======
