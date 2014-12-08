@@ -31,7 +31,7 @@ We believe that the single most important reason why people don't read TOS, EULA
 we are <strong>LAZY</strong>. That's human nature.<br> 
 However, parts of the responsibility is from the publisher themself. Therefore, in order to improve the situation we need to make changes at both user and publisher side.<br><br>
 Our solution is,<br> 
-1. Provide a template and guideline for publisher to write down key summary of each clause of their legal document with no/minimal technical jargon.<br>
+1. Provide a template and guideline for publisher to write down brief key summary of each clause of their legal document with no/minimal technical jargon.<br>
 2. A mandatory video that display those key summary with narrator and countdown timer. We aim to have maximum of 45 seconds per type of legal document. 
 <br><br>
 We do encourage publisher to reward their users after they done viewing/listening to the video. For example, upon registration, Dropbox user can get free 50Mb extra storage after completed the video.<br>
